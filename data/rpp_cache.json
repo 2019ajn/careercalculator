@@ -1,0 +1,789 @@
+{
+  "10180": {
+    "value": 89.849,
+    "date": "2023-01-01",
+    "msa": "Abilene, TX (MSA)"
+  },
+  "10420": {
+    "value": 92.827,
+    "date": "2023-01-01",
+    "msa": "Akron, OH (MSA)"
+  },
+  "10500": {
+    "value": 86.405,
+    "date": "2023-01-01",
+    "msa": "Albany, GA (MSA)"
+  },
+  "10580": {
+    "value": 97.583,
+    "date": "2023-01-01",
+    "msa": "Albany-Schenectady-Troy, NY (MSA)"
+  },
+  "10740": {
+    "value": 92.958,
+    "date": "2023-01-01",
+    "msa": "Albuquerque, NM (MSA)"
+  },
+  "10900": {
+    "value": 98.441,
+    "date": "2023-01-01",
+    "msa": "Allentown-Bethlehem-Easton, PA-NJ (MSA)"
+  },
+  "11020": {
+    "value": 88.25,
+    "date": "2023-01-01",
+    "msa": "Altoona, PA (MSA)"
+  },
+  "11100": {
+    "value": 90.812,
+    "date": "2023-01-01",
+    "msa": "Amarillo, TX (MSA)"
+  },
+  "11180": {
+    "value": 91.418,
+    "date": "2023-01-01",
+    "msa": "Ames, IA (MSA)"
+  },
+  "11260": {
+    "value": 104.547,
+    "date": "2023-01-01",
+    "msa": "Anchorage, AK (MSA)"
+  },
+  "11460": {
+    "value": 97.968,
+    "date": "2023-01-01",
+    "msa": "Ann Arbor, MI (MSA)"
+  },
+  "11500": {
+    "value": 87.218,
+    "date": "2023-01-01",
+    "msa": "Anniston-Oxford-Jacksonville, AL (MSA)"
+  },
+  "11540": {
+    "value": 93.597,
+    "date": "2023-01-01",
+    "msa": "Appleton, WI (MSA)"
+  },
+  "11700": {
+    "value": 96.129,
+    "date": "2023-01-01",
+    "msa": "Asheville, NC (MSA)"
+  },
+  "12020": {
+    "value": 93.278,
+    "date": "2023-01-01",
+    "msa": "Athens-Clarke County, GA (MSA)"
+  },
+  "12060": {
+    "value": 100.933,
+    "date": "2023-01-01",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA (MSA)"
+  },
+  "12100": {
+    "value": 97.17,
+    "date": "2023-01-01",
+    "msa": "Atlantic City-Hammonton, NJ (MSA)"
+  },
+  "12220": {
+    "value": 88.857,
+    "date": "2023-01-01",
+    "msa": "Auburn-Opelika, AL (MSA)"
+  },
+  "12260": {
+    "value": 91.03,
+    "date": "2023-01-01",
+    "msa": "Augusta-Richmond County, GA-SC (MSA)"
+  },
+  "12420": {
+    "value": 97.62,
+    "date": "2023-01-01",
+    "msa": "Austin-Round Rock, TX (MSA)"
+  },
+  "12540": {
+    "value": 102.247,
+    "date": "2023-01-01",
+    "msa": "Bakersfield, CA (MSA)"
+  },
+  "12580": {
+    "value": 102.672,
+    "date": "2023-01-01",
+    "msa": "Baltimore-Columbia-Towson, MD (MSA)"
+  },
+  "12620": {
+    "value": 91.466,
+    "date": "2023-01-01",
+    "msa": "Bangor, ME (MSA)"
+  },
+  "12700": {
+    "value": 105.815,
+    "date": "2023-01-01",
+    "msa": "Barnstable Town, MA (MSA)"
+  },
+  "12940": {
+    "value": 90.802,
+    "date": "2023-01-01",
+    "msa": "Baton Rouge, LA (MSA)"
+  },
+  "12980": {
+    "value": 88.228,
+    "date": "2023-01-01",
+    "msa": "Battle Creek, MI (MSA)"
+  },
+  "13020": {
+    "value": 90.565,
+    "date": "2023-01-01",
+    "msa": "Bay City, MI (MSA)"
+  },
+  "13140": {
+    "value": 90.238,
+    "date": "2023-01-01",
+    "msa": "Beaumont-Port Arthur, TX (MSA)"
+  },
+  "13220": {
+    "value": 89.644,
+    "date": "2023-01-01",
+    "msa": "Beckley, WV (MSA)"
+  },
+  "13380": {
+    "value": 104.139,
+    "date": "2023-01-01",
+    "msa": "Bellingham, WA (MSA)"
+  },
+  "13460": {
+    "value": 105.81,
+    "date": "2023-01-01",
+    "msa": "Bend-Redmond, OR (MSA)"
+  },
+  "13740": {
+    "value": 89.613,
+    "date": "2023-01-01",
+    "msa": "Billings, MT (MSA)"
+  },
+  "13780": {
+    "value": 91.63,
+    "date": "2023-01-01",
+    "msa": "Binghamton, NY (MSA)"
+  },
+  "13820": {
+    "value": 92.569,
+    "date": "2023-01-01",
+    "msa": "Birmingham-Hoover, AL (MSA)"
+  },
+  "13900": {
+    "value": 89.648,
+    "date": "2023-01-01",
+    "msa": "Bismarck, ND (MSA)"
+  },
+  "13980": {
+    "value": 90.657,
+    "date": "2023-01-01",
+    "msa": "Blacksburg-Christiansburg-Radford, VA (MSA)"
+  },
+  "14020": {
+    "value": 93.372,
+    "date": "2023-01-01",
+    "msa": "Bloomington, IN (MSA)"
+  },
+  "14100": {
+    "value": 90.34,
+    "date": "2023-01-01",
+    "msa": "Bloomsburg-Berwick, PA (MSA)"
+  },
+  "14260": {
+    "value": 93.427,
+    "date": "2023-01-01",
+    "msa": "Boise City, ID (MSA)"
+  },
+  "14460": {
+    "value": 113.7,
+    "date": "2023-01-01",
+    "msa": "Boston-Cambridge-Newton, MA-NH (MSA)"
+  },
+  "14500": {
+    "value": 99.851,
+    "date": "2023-01-01",
+    "msa": "Boulder, CO (MSA)"
+  },
+  "14540": {
+    "value": 90.517,
+    "date": "2023-01-01",
+    "msa": "Bowling Green, KY (MSA)"
+  },
+  "14740": {
+    "value": 107.541,
+    "date": "2023-01-01",
+    "msa": "Bremerton-Silverdale, WA (MSA)"
+  },
+  "14860": {
+    "value": 106.486,
+    "date": "2023-01-01",
+    "msa": "Bridgeport-Stamford-Norwalk, CT (MSA)"
+  },
+  "15180": {
+    "value": 85.183,
+    "date": "2023-01-01",
+    "msa": "Brownsville-Harlingen, TX (MSA)"
+  },
+  "15260": {
+    "value": 89.71,
+    "date": "2023-01-01",
+    "msa": "Brunswick, GA (MSA)"
+  },
+  "15380": {
+    "value": 94.393,
+    "date": "2023-01-01",
+    "msa": "Buffalo-Cheektowaga-Niagara Falls, NY (MSA)"
+  },
+  "15500": {
+    "value": 92.748,
+    "date": "2023-01-01",
+    "msa": "Burlington, NC (MSA)"
+  },
+  "15540": {
+    "value": 100.04,
+    "date": "2023-01-01",
+    "msa": "Burlington-South Burlington, VT (MSA)"
+  },
+  "15940": {
+    "value": 88.539,
+    "date": "2023-01-01",
+    "msa": "Canton-Massillon, OH (MSA)"
+  },
+  "15980": {
+    "value": 102.565,
+    "date": "2023-01-01",
+    "msa": "Cape Coral-Fort Myers, FL (MSA)"
+  },
+  "16020": {
+    "value": 86.324,
+    "date": "2023-01-01",
+    "msa": "Cape Girardeau, MO-IL (MSA)"
+  },
+  "16060": {
+    "value": 87.243,
+    "date": "2023-01-01",
+    "msa": "Carbondale-Marion, IL (MSA)"
+  },
+  "16180": {
+    "value": 94.056,
+    "date": "2023-01-01",
+    "msa": "Carson City, NV (MSA)"
+  },
+  "16220": {
+    "value": 91.833,
+    "date": "2023-01-01",
+    "msa": "Casper, WY (MSA)"
+  },
+  "16300": {
+    "value": 89.959,
+    "date": "2023-01-01",
+    "msa": "Cedar Rapids, IA (MSA)"
+  },
+  "16540": {
+    "value": 93.925,
+    "date": "2023-01-01",
+    "msa": "Chambersburg-Waynesboro, PA (MSA)"
+  },
+  "16580": {
+    "value": 90.826,
+    "date": "2023-01-01",
+    "msa": "Champaign-Urbana, IL (MSA)"
+  },
+  "16620": {
+    "value": 88.389,
+    "date": "2023-01-01",
+    "msa": "Charleston, WV (MSA)"
+  },
+  "16700": {
+    "value": 100.639,
+    "date": "2023-01-01",
+    "msa": "Charleston-North Charleston, SC (MSA)"
+  },
+  "16740": {
+    "value": 96.979,
+    "date": "2023-01-01",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC (MSA)"
+  },
+  "16820": {
+    "value": 98.593,
+    "date": "2023-01-01",
+    "msa": "Charlottesville, VA (MSA)"
+  },
+  "16860": {
+    "value": 92.794,
+    "date": "2023-01-01",
+    "msa": "Chattanooga, TN-GA (MSA)"
+  },
+  "16940": {
+    "value": 90.93,
+    "date": "2023-01-01",
+    "msa": "Cheyenne, WY (MSA)"
+  },
+  "16980": {
+    "value": 103.1,
+    "date": "2023-01-01",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI (MSA)"
+  },
+  "17020": {
+    "value": 104.616,
+    "date": "2023-01-01",
+    "msa": "Chico, CA (MSA)"
+  },
+  "17140": {
+    "value": 94.102,
+    "date": "2023-01-01",
+    "msa": "Cincinnati, OH-KY-IN (MSA)"
+  },
+  "17300": {
+    "value": 92.148,
+    "date": "2023-01-01",
+    "msa": "Clarksville, TN-KY (MSA)"
+  },
+  "17420": {
+    "value": 90.876,
+    "date": "2023-01-01",
+    "msa": "Cleveland, TN (MSA)"
+  },
+  "17460": {
+    "value": 93.045,
+    "date": "2023-01-01",
+    "msa": "Cleveland-Elyria, OH (MSA)"
+  },
+  "17660": {
+    "value": 96.883,
+    "date": "2023-01-01",
+    "msa": "Coeur d'Alene, ID (MSA)"
+  },
+  "17780": {
+    "value": 90.701,
+    "date": "2023-01-01",
+    "msa": "College Station-Bryan, TX (MSA)"
+  },
+  "17820": {
+    "value": 97.41,
+    "date": "2023-01-01",
+    "msa": "Colorado Springs, CO (MSA)"
+  },
+  "17860": {
+    "value": 89.28,
+    "date": "2023-01-01",
+    "msa": "Columbia, MO (MSA)"
+  },
+  "17900": {
+    "value": 92.925,
+    "date": "2023-01-01",
+    "msa": "Columbia, SC (MSA)"
+  },
+  "17980": {
+    "value": 88.796,
+    "date": "2023-01-01",
+    "msa": "Columbus, GA-AL (MSA)"
+  },
+  "18020": {
+    "value": 90.312,
+    "date": "2023-01-01",
+    "msa": "Columbus, IN (MSA)"
+  },
+  "18140": {
+    "value": 94.516,
+    "date": "2023-01-01",
+    "msa": "Columbus, OH (MSA)"
+  },
+  "18580": {
+    "value": 91.306,
+    "date": "2023-01-01",
+    "msa": "Corpus Christi, TX (MSA)"
+  },
+  "18700": {
+    "value": 106.358,
+    "date": "2023-01-01",
+    "msa": "Corvallis, OR (MSA)"
+  },
+  "19060": {
+    "value": 85.82,
+    "date": "2023-01-01",
+    "msa": "Cumberland, MD-WV (MSA)"
+  },
+  "19100": {
+    "value": 101.2,
+    "date": "2023-01-01",
+    "msa": "Dallas-Fort Worth-Arlington, TX (MSA)"
+  },
+  "19140": {
+    "value": 90.276,
+    "date": "2023-01-01",
+    "msa": "Dalton, GA (MSA)"
+  },
+  "19180": {
+    "value": 86.824,
+    "date": "2023-01-01",
+    "msa": "Danville, IL (MSA)"
+  },
+  "19300": {
+    "value": 94.726,
+    "date": "2023-01-01",
+    "msa": "Daphne-Fairhope-Foley, AL (MSA)"
+  },
+  "19340": {
+    "value": 89.274,
+    "date": "2023-01-01",
+    "msa": "Davenport-Moline-Rock Island, IA-IL (MSA)"
+  },
+  "19380": {
+    "value": 89,
+    "date": "2017-01-01",
+    "msa": "Dayton, OH (MSA)"
+  },
+  "19460": {
+    "value": 90.096,
+    "date": "2023-01-01",
+    "msa": "Decatur, AL (MSA)"
+  },
+  "19500": {
+    "value": 86.604,
+    "date": "2023-01-01",
+    "msa": "Decatur, IL (MSA)"
+  },
+  "19660": {
+    "value": 98.742,
+    "date": "2023-01-01",
+    "msa": "Deltona-Daytona Beach-Ormond Beach, FL (MSA)"
+  },
+  "19740": {
+    "value": 105.49,
+    "date": "2023-01-01",
+    "msa": "Denver-Aurora-Lakewood, CO (MSA)"
+  },
+  "19780": {
+    "value": 92.659,
+    "date": "2023-01-01",
+    "msa": "Des Moines-West Des Moines, IA (MSA)"
+  },
+  "19820": {
+    "value": 95.3,
+    "date": "2023-01-01",
+    "msa": "Detroit-Warren-Dearborn, MI (MSA)"
+  },
+  "20020": {
+    "value": 88.318,
+    "date": "2023-01-01",
+    "msa": "Dothan, AL (MSA)"
+  },
+  "20100": {
+    "value": 91.652,
+    "date": "2023-01-01",
+    "msa": "Dover, DE (MSA)"
+  },
+  "20220": {
+    "value": 89.056,
+    "date": "2023-01-01",
+    "msa": "Dubuque, IA (MSA)"
+  },
+  "20260": {
+    "value": 86.98,
+    "date": "2023-01-01",
+    "msa": "Duluth, MN-WI (MSA)"
+  },
+  "20500": {
+    "value": 96.638,
+    "date": "2023-01-01",
+    "msa": "Durham-Chapel Hill, NC (MSA)"
+  },
+  "20700": {
+    "value": 95.656,
+    "date": "2023-01-01",
+    "msa": "East Stroudsburg, PA (MSA)"
+  },
+  "20740": {
+    "value": 91.405,
+    "date": "2023-01-01",
+    "msa": "Eau Claire, WI (MSA)"
+  },
+  "20940": {
+    "value": 100.08,
+    "date": "2023-01-01",
+    "msa": "El Centro, CA (MSA)"
+  },
+  "21060": {
+    "value": 89.386,
+    "date": "2023-01-01",
+    "msa": "Elizabethtown-Fort Knox, KY (MSA)"
+  },
+  "21140": {
+    "value": 92.573,
+    "date": "2023-01-01",
+    "msa": "Elkhart-Goshen, IN (MSA)"
+  },
+  "21300": {
+    "value": 92.201,
+    "date": "2023-01-01",
+    "msa": "Elmira, NY (MSA)"
+  },
+  "21340": {
+    "value": 90.241,
+    "date": "2023-01-01",
+    "msa": "El Paso, TX (MSA)"
+  },
+  "21500": {
+    "value": 91.516,
+    "date": "2023-01-01",
+    "msa": "Erie, PA (MSA)"
+  },
+  "23060": {
+    "value": 89.98,
+    "date": "2023-01-01",
+    "msa": "Fort Wayne, IN (MSA)"
+  },
+  "23420": {
+    "value": 103.988,
+    "date": "2023-01-01",
+    "msa": "Fresno, CA (MSA)"
+  },
+  "23460": {
+    "value": 87.02,
+    "date": "2023-01-01",
+    "msa": "Gadsden, AL (MSA)"
+  },
+  "23540": {
+    "value": 96.895,
+    "date": "2023-01-01",
+    "msa": "Gainesville, FL (MSA)"
+  },
+  "23580": {
+    "value": 96.097,
+    "date": "2023-01-01",
+    "msa": "Gainesville, GA (MSA)"
+  },
+  "23900": {
+    "value": 92.724,
+    "date": "2023-01-01",
+    "msa": "Gettysburg, PA (MSA)"
+  },
+  "24020": {
+    "value": 93.551,
+    "date": "2023-01-01",
+    "msa": "Glens Falls, NY (MSA)"
+  },
+  "24140": {
+    "value": 89.731,
+    "date": "2023-01-01",
+    "msa": "Goldsboro, NC (MSA)"
+  },
+  "24220": {
+    "value": 86.195,
+    "date": "2023-01-01",
+    "msa": "Grand Forks, ND-MN (MSA)"
+  },
+  "24260": {
+    "value": 87.262,
+    "date": "2023-01-01",
+    "msa": "Grand Island, NE (MSA)"
+  },
+  "24300": {
+    "value": 92.131,
+    "date": "2023-01-01",
+    "msa": "Grand Junction, CO (MSA)"
+  },
+  "24340": {
+    "value": 95.189,
+    "date": "2023-01-01",
+    "msa": "Grand Rapids-Wyoming, MI (MSA)"
+  },
+  "24420": {
+    "value": 100.709,
+    "date": "2023-01-01",
+    "msa": "Grants Pass, OR (MSA)"
+  },
+  "24500": {
+    "value": 92.596,
+    "date": "2023-01-01",
+    "msa": "Great Falls, MT (MSA)"
+  },
+  "24540": {
+    "value": 95.987,
+    "date": "2023-01-01",
+    "msa": "Greeley, CO (MSA)"
+  },
+  "24580": {
+    "value": 92.064,
+    "date": "2023-01-01",
+    "msa": "Green Bay, WI (MSA)"
+  },
+  "24660": {
+    "value": 92.68,
+    "date": "2023-01-01",
+    "msa": "Greensboro-High Point, NC (MSA)"
+  },
+  "26420": {
+    "value": 98.5,
+    "date": "2023-01-01",
+    "msa": "Houston-The Woodlands-Sugar Land, TX (MSA)"
+  },
+  "28140": {
+    "value": 93.266,
+    "date": "2023-01-01",
+    "msa": "Kansas City, MO-KS (MSA)"
+  },
+  "29820": {
+    "value": 103.8,
+    "date": "2023-01-01",
+    "msa": "Las Vegas-Henderson-Paradise, NV (MSA)"
+  },
+  "31100": {
+    "value": 116.8,
+    "date": "2023-01-01",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA (MSA)"
+  },
+  "33100": {
+    "value": 108.9,
+    "date": "2023-01-01",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL (MSA)"
+  },
+  "33460": {
+    "value": 104.2,
+    "date": "2023-01-01",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI (MSA)"
+  },
+  "34980": {
+    "value": 97.43,
+    "date": "2023-01-01",
+    "msa": "Nashville-Davidson--Murfreesboro--Franklin, TN (MSA)"
+  },
+  "35620": {
+    "value": 121.2,
+    "date": "2023-01-01",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA (MSA)"
+  },
+  "36420": {
+    "value": 90.978,
+    "date": "2023-01-01",
+    "msa": "Oklahoma City, OK (MSA)"
+  },
+  "36740": {
+    "value": 101.109,
+    "date": "2023-01-01",
+    "msa": "Orlando-Kissimmee-Sanford, FL (MSA)"
+  },
+  "37100": {
+    "value": 112.5,
+    "date": "2023-01-01",
+    "msa": "Oxnard-Thousand Oaks-Ventura, CA (MSA)"
+  },
+  "37980": {
+    "value": 103.547,
+    "date": "2023-01-01",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)"
+  },
+  "38060": {
+    "value": 105.524,
+    "date": "2023-01-01",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ (MSA)"
+  },
+  "38300": {
+    "value": 94.442,
+    "date": "2023-01-01",
+    "msa": "Pittsburgh, PA (MSA)"
+  },
+  "38900": {
+    "value": 108.4,
+    "date": "2023-01-01",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA (MSA)"
+  },
+  "39580": {
+    "value": 97.989,
+    "date": "2023-01-01",
+    "msa": "Raleigh, NC (MSA)"
+  },
+  "40140": {
+    "value": 107.929,
+    "date": "2023-01-01",
+    "msa": "Riverside-San Bernardino-Ontario, CA (MSA)"
+  },
+  "40900": {
+    "value": 105.2,
+    "date": "2023-01-01",
+    "msa": "Sacramento-Roseville-Folsom, CA (MSA)"
+  },
+  "41180": {
+    "value": 96.312,
+    "date": "2023-01-01",
+    "msa": "St. Louis, MO-IL (MSA)"
+  },
+  "41740": {
+    "value": 111.491,
+    "date": "2023-01-01",
+    "msa": "San Diego-Carlsbad, CA (MSA)"
+  },
+  "41860": {
+    "value": 118.225,
+    "date": "2023-01-01",
+    "msa": "San Francisco-Oakland-Hayward, CA (MSA)"
+  },
+  "41940": {
+    "value": 135.2,
+    "date": "2023-12-31",
+    "msa": "San Jose-Sunnyvale-Santa Clara, CA (MSA)"
+  },
+  "42200": {
+    "value": 113.488,
+    "date": "2023-01-01",
+    "msa": "Santa Maria-Santa Barbara, CA (MSA)"
+  },
+  "42220": {
+    "value": 110.084,
+    "date": "2023-01-01",
+    "msa": "Santa Rosa, CA (MSA)"
+  },
+  "42660": {
+    "value": 112.991,
+    "date": "2023-01-01",
+    "msa": "Seattle-Tacoma-Bellevue, WA (MSA)"
+  },
+  "45300": {
+    "value": 103.433,
+    "date": "2023-01-01",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL (MSA)"
+  },
+  "46060": {
+    "value": 94.346,
+    "date": "2023-01-01",
+    "msa": "Tucson, AZ (MSA)"
+  },
+  "46700": {
+    "value": 109.2,
+    "date": "2023-01-01",
+    "msa": "Vallejo-Fairfield, CA (MSA)"
+  },
+  "47260": {
+    "value": 97.36,
+    "date": "2023-01-01",
+    "msa": "Virginia Beach-Norfolk-Newport News, VA-NC (MSA)"
+  },
+  "47900": {
+    "value": 108.641,
+    "date": "2023-01-01",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA)"
+  },
+  "48620": {
+    "value": 89.481,
+    "date": "2023-01-01",
+    "msa": "Wichita, KS (MSA)"
+  },
+  "49340": {
+    "value": 102.015,
+    "date": "2023-01-01",
+    "msa": "Worcester, MA-CT (MSA)"
+  },
+  "metadata": {
+    "source": "FRED API - Regional Price Parities (RPP)",
+    "series": "RPPALL (All Items)",
+    "year": "2023",
+    "last_updated": "2025-08-23",
+    "note": "Smart-fetched cache of FRED RPP data for US MSAs",
+    "total_msas": 155,
+    "newly_added": 15,
+    "tested": 248,
+    "failed": 223,
+    "rate_limit_hits": 0
+  }
+}

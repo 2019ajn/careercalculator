@@ -1,0 +1,2647 @@
+[
+  {
+    "cbsa": "10180",
+    "msa": "Abilene, TX (MSA)",
+    "aliases": [
+      "Abilene, TX",
+      "The Key City, TX",
+      "Dyess AFB, TX",
+      "Downtown, TX",
+      "North Side, TX",
+      "South Side, TX",
+      "East Side, TX",
+      "West Side, TX",
+      "Clyde, TX",
+      "Tye, TX",
+      "Buffalo Gap, TX",
+      "Tuscola, TX"
+    ]
+  },
+  {
+    "cbsa": "10420",
+    "msa": "Akron, OH (MSA)",
+    "aliases": [
+      "Akron, OH",
+      "Rubber City, OH",
+      "Downtown, OH",
+      "Highland Square, OH",
+      "West Akron, OH",
+      "North Hill, OH",
+      "East Akron, OH",
+      "Firestone Park, OH",
+      "Kenmore, OH",
+      "Ellet, OH",
+      "Fairlawn, OH",
+      "Cuyahoga Falls, OH"
+    ]
+  },
+  {
+    "cbsa": "10500",
+    "msa": "Albany, GA (MSA)",
+    "aliases": [
+      "Albany, GA",
+      "Good Life City, GA",
+      "Downtown, GA",
+      "East Albany, GA",
+      "West Albany, GA",
+      "North Albany, GA",
+      "South Albany, GA",
+      "Leesburg, GA",
+      "Sylvester, GA",
+      "Cordele, GA",
+      "Americus, GA",
+      "Tifton, GA"
+    ]
+  },
+  {
+    "cbsa": "10580",
+    "msa": "Albany-Schenectady-Troy, NY (MSA)",
+    "aliases": [
+      "Albany, NY",
+      "Capital Region, NY",
+      "Empire State Plaza, NY",
+      "Downtown, NY",
+      "Center Square, NY",
+      "Lark Street, NY",
+      "Troy, NY",
+      "Schenectady, NY",
+      "Saratoga Springs, NY",
+      "Clifton Park, NY",
+      "Colonie, NY"
+    ]
+  },
+  {
+    "cbsa": "10740",
+    "msa": "Albuquerque, NM (MSA)",
+    "aliases": [
+      "Albuquerque, NM",
+      "ABQ, NM",
+      "Duke City, NM",
+      "Old Town, NM",
+      "Nob Hill, NM",
+      "Uptown, NM",
+      "Rio Rancho, NM",
+      "Los Lunas, NM",
+      "Belen, NM",
+      "Corrales, NM",
+      "Placitas, NM"
+    ]
+  },
+  {
+    "cbsa": "10900",
+    "msa": "Allentown-Bethlehem-Easton, PA-NJ (MSA)",
+    "aliases": [
+      "Allentown, PA",
+      "Bethlehem, PA",
+      "Easton, PA",
+      "Lehigh Valley, PA",
+      "Downtown, PA",
+      "West End, PA",
+      "South Side, PA",
+      "North Side, PA",
+      "East Side, PA",
+      "Whitehall, PA",
+      "Emmaus, PA",
+      "Macungie, PA",
+      "Hellertown, PA",
+      "Nazareth, PA",
+      "Palmer, PA"
+    ]
+  },
+  {
+    "cbsa": "11020",
+    "msa": "Altoona, PA (MSA)",
+    "aliases": [
+      "Altoona, PA",
+      "Railroad City, PA",
+      "Downtown, PA",
+      "West Side, PA",
+      "East Side, PA",
+      "North Side, PA",
+      "South Side, PA",
+      "Hollidaysburg, PA",
+      "Duncansville, PA",
+      "Tyrone, PA",
+      "Bellwood, PA",
+      "Martinsburg, PA",
+      "Roaring Spring, PA",
+      "Bedford, PA"
+    ]
+  },
+  {
+    "cbsa": "11100",
+    "msa": "Amarillo, TX (MSA)",
+    "aliases": [
+      "Amarillo, TX",
+      "Yellow City, TX",
+      "Panhandle, TX",
+      "Downtown, TX",
+      "West Side, TX",
+      "East Side, TX",
+      "North Side, TX",
+      "South Side, TX",
+      "Canyon, TX",
+      "Bushland, TX",
+      "Claude, TX",
+      "Hereford, TX",
+      "Dumas, TX"
+    ]
+  },
+  {
+    "cbsa": "11180",
+    "msa": "Ames, IA (MSA)",
+    "aliases": [
+      "Ames, IA",
+      "Iowa State, IA",
+      "ISU, IA",
+      "Cyclone, IA",
+      "Downtown, IA",
+      "Campus Town, IA",
+      "North Ames, IA",
+      "South Ames, IA",
+      "West Ames, IA",
+      "East Ames, IA",
+      "Nevada, IA",
+      "Story City, IA"
+    ]
+  },
+  {
+    "cbsa": "11260",
+    "msa": "Anchorage, AK (MSA)",
+    "aliases": [
+      "Anchorage, AK",
+      "The Last Frontier, AK",
+      "Downtown, AK",
+      "Midtown, AK",
+      "South Anchorage, AK",
+      "Eagle River, AK",
+      "Chugiak, AK",
+      "Palmer, AK",
+      "Wasilla, AK",
+      "Girdwood, AK",
+      "Seward, AK",
+      "Kenai, AK",
+      "Soldotna, AK",
+      "Homer, AK"
+    ]
+  },
+  {
+    "cbsa": "11460",
+    "msa": "Ann Arbor, MI (MSA)",
+    "aliases": [
+      "Ann Arbor, MI",
+      "A2, MI",
+      "Tree Town, MI",
+      "University of Michigan, MI",
+      "UMich, MI",
+      "Downtown, MI",
+      "Kerrytown, MI",
+      "West Side, MI",
+      "North Campus, MI",
+      "South Campus, MI",
+      "Ypsilanti, MI",
+      "Saline, MI"
+    ]
+  },
+  {
+    "cbsa": "11500",
+    "msa": "Anniston-Oxford-Jacksonville, AL (MSA)",
+    "aliases": [
+      "Anniston, AL",
+      "The Model City, AL",
+      "Oxford, AL",
+      "Jacksonville, AL",
+      "Piedmont, AL",
+      "Heflin, AL",
+      "Talladega, AL",
+      "Gadsden, AL",
+      "Fort McClellan, AL",
+      "Weaver, AL",
+      "Saks, AL",
+      "Blue Mountain, AL",
+      "Ashville, AL",
+      "Oneonta, AL"
+    ]
+  },
+  {
+    "cbsa": "11540",
+    "msa": "Appleton, WI (MSA)",
+    "aliases": [
+      "Appleton, WI",
+      "Fox Cities, WI",
+      "Downtown, WI",
+      "College Avenue, WI",
+      "North Appleton, WI",
+      "South Appleton, WI",
+      "Neenah, WI",
+      "Menasha, WI",
+      "Kaukauna, WI",
+      "Little Chute, WI",
+      "Kimberly, WI",
+      "Combined Locks, WI",
+      "Grand Chute, WI",
+      "Hortonville, WI"
+    ]
+  },
+  {
+    "cbsa": "11700",
+    "msa": "Asheville, NC (MSA)",
+    "aliases": [
+      "Asheville, NC",
+      "Land of the Sky, NC",
+      "Downtown, NC",
+      "West Asheville, NC",
+      "North Asheville, NC",
+      "South Asheville, NC",
+      "East Asheville, NC",
+      "Biltmore, NC",
+      "Black Mountain, NC",
+      "Weaverville, NC",
+      "Candler, NC",
+      "Leicester, NC",
+      "Arden, NC",
+      "Fletcher, NC"
+    ]
+  },
+  {
+    "cbsa": "12020",
+    "msa": "Athens-Clarke County, GA (MSA)",
+    "aliases": [
+      "Athens, GA",
+      "UGA, GA",
+      "University of Georgia, GA",
+      "Classic City, GA",
+      "Downtown, GA",
+      "Five Points, GA",
+      "Normaltown, GA",
+      "Watkinsville, GA",
+      "Bogart, GA",
+      "Winterville, GA",
+      "Comer, GA"
+    ]
+  },
+  {
+    "cbsa": "12060",
+    "msa": "Atlanta-Sandy Springs-Roswell, GA (MSA)",
+    "aliases": [
+      "Atlanta, GA",
+      "ATL, GA",
+      "State Capital, GA",
+      "Hotlanta, GA",
+      "The A, GA",
+      "Midtown, GA",
+      "Buckhead, GA",
+      "Virginia-Highland, GA",
+      "Decatur, GA",
+      "Sandy Springs, GA",
+      "Roswell, GA",
+      "Alpharetta, GA",
+      "Marietta, GA",
+      "Kennesaw, GA"
+    ]
+  },
+  {
+    "cbsa": "12100",
+    "msa": "Atlantic City-Hammonton, NJ (MSA)",
+    "aliases": [
+      "Atlantic City, NJ",
+      "AC, NJ",
+      "The World's Playground, NJ",
+      "Boardwalk, NJ",
+      "Marina District, NJ",
+      "Downtown, NJ",
+      "Chelsea, NJ",
+      "Ventnor, NJ",
+      "Margate, NJ",
+      "Longport, NJ",
+      "Brigantine, NJ",
+      "Ocean City NJ, NJ",
+      "Wildwood, NJ",
+      "Cape May, NJ"
+    ]
+  },
+  {
+    "cbsa": "12220",
+    "msa": "Auburn-Opelika, AL (MSA)",
+    "aliases": [
+      "Auburn, AL",
+      "Auburn University, AL",
+      "War Eagle, AL",
+      "Toomer's Corner, AL",
+      "Downtown, AL",
+      "University, AL",
+      "Opelika, AL",
+      "Phenix City, AL",
+      "Smiths Station, AL",
+      "Valley, AL",
+      "LaGrange, AL",
+      "West Point, AL"
+    ]
+  },
+  {
+    "cbsa": "12260",
+    "msa": "Augusta-Richmond County, GA-SC (MSA)",
+    "aliases": [
+      "Augusta, GA",
+      "Garden City, GA",
+      "Masters, GA",
+      "Downtown, GA",
+      "Summerville, GA",
+      "Forest Hills, GA",
+      "West Augusta, GA",
+      "North Augusta, GA",
+      "Aiken, GA",
+      "Evans, GA",
+      "Martinez, GA",
+      "Grovetown, GA",
+      "Thomson, GA",
+      "Waynesboro, GA"
+    ]
+  },
+  {
+    "cbsa": "12420",
+    "msa": "Austin-Round Rock, TX (MSA)",
+    "aliases": [
+      "Austin, TX",
+      "ATX, TX",
+      "State Capital, TX",
+      "Live Music Capital, TX",
+      "Silicon Hills, TX",
+      "Round Rock, TX",
+      "Cedar Park, TX",
+      "Leander, TX",
+      "Pflugerville, TX",
+      "Georgetown, TX",
+      "San Marcos, TX",
+      "Buda, TX",
+      "Kyle, TX",
+      "Dripping Springs, TX"
+    ]
+  },
+  {
+    "cbsa": "12540",
+    "msa": "Bakersfield, CA (MSA)",
+    "aliases": [
+      "Bakersfield, CA",
+      "Bako, CA",
+      "Oil Capital, CA",
+      "Downtown, CA",
+      "Rosedale, CA",
+      "Oildale, CA",
+      "Shafter, CA",
+      "Wasco, CA",
+      "Delano, CA",
+      "Taft, CA",
+      "Arvin, CA"
+    ]
+  },
+  {
+    "cbsa": "12580",
+    "msa": "Baltimore-Columbia-Towson, MD (MSA)",
+    "aliases": [
+      "Baltimore, MD"
+    ]
+  },
+  {
+    "cbsa": "12620",
+    "msa": "Bangor, ME (MSA)",
+    "aliases": [
+      "Bangor, ME"
+    ]
+  },
+  {
+    "cbsa": "12700",
+    "msa": "Barnstable Town, MA (MSA)",
+    "aliases": [
+      "Barnstable Town, MA"
+    ]
+  },
+  {
+    "cbsa": "12940",
+    "msa": "Baton Rouge, LA (MSA)",
+    "aliases": [
+      "Baton Rouge, LA",
+      "State Capital, LA",
+      "Red Stick, LA",
+      "Downtown, LA",
+      "Mid City, LA",
+      "Garden District, LA",
+      "Southdowns, LA",
+      "Perkins Rowe, LA",
+      "Denham Springs, LA",
+      "Walker, LA",
+      "Central, LA",
+      "Zachary, LA"
+    ]
+  },
+  {
+    "cbsa": "12980",
+    "msa": "Battle Creek, MI (MSA)",
+    "aliases": [
+      "Battle Creek, MI"
+    ]
+  },
+  {
+    "cbsa": "13020",
+    "msa": "Bay City, MI (MSA)",
+    "aliases": [
+      "Bay City, MI"
+    ]
+  },
+  {
+    "cbsa": "13140",
+    "msa": "Beaumont-Port Arthur, TX (MSA)",
+    "aliases": [
+      "Beaumont, TX"
+    ]
+  },
+  {
+    "cbsa": "13220",
+    "msa": "Beckley, WV (MSA)",
+    "aliases": [
+      "Beckley, WV"
+    ]
+  },
+  {
+    "cbsa": "13380",
+    "msa": "Bellingham, WA (MSA)",
+    "aliases": [
+      "Bellingham, WA"
+    ]
+  },
+  {
+    "cbsa": "13460",
+    "msa": "Bend-Redmond, OR (MSA)",
+    "aliases": [
+      "Bend, OR"
+    ]
+  },
+  {
+    "cbsa": "13740",
+    "msa": "Billings, MT (MSA)",
+    "aliases": [
+      "Billings, MT"
+    ]
+  },
+  {
+    "cbsa": "13780",
+    "msa": "Binghamton, NY (MSA)",
+    "aliases": [
+      "Binghamton, NY"
+    ]
+  },
+  {
+    "cbsa": "13820",
+    "msa": "Birmingham-Hoover, AL (MSA)",
+    "aliases": [
+      "Birmingham, AL"
+    ]
+  },
+  {
+    "cbsa": "13900",
+    "msa": "Bismarck, ND (MSA)",
+    "aliases": [
+      "Bismarck, ND",
+      "State Capital, ND",
+      "Downtown, ND",
+      "North Bismarck, ND",
+      "South Bismarck, ND",
+      "Mandan, ND",
+      "Lincoln, ND",
+      "Washburn, ND",
+      "Wilton, ND",
+      "Wing, ND",
+      "Underwood, ND",
+      "Mercer, ND"
+    ]
+  },
+  {
+    "cbsa": "13980",
+    "msa": "Blacksburg-Christiansburg-Radford, VA (MSA)",
+    "aliases": [
+      "Blacksburg, VA"
+    ]
+  },
+  {
+    "cbsa": "14020",
+    "msa": "Bloomington, IN (MSA)",
+    "aliases": [
+      "Bloomington, IN",
+      "Indiana University, IN",
+      "IU, IN",
+      "Hoosier, IN",
+      "Downtown, IN",
+      "Kirkwood, IN",
+      "College Mall, IN",
+      "Ellettsville, IN",
+      "Nashville IN, IN",
+      "Bedford, IN",
+      "Martinsville, IN"
+    ]
+  },
+  {
+    "cbsa": "14100",
+    "msa": "Bloomsburg-Berwick, PA (MSA)",
+    "aliases": [
+      "Bloomsburg, PA"
+    ]
+  },
+  {
+    "cbsa": "14260",
+    "msa": "Boise City, ID (MSA)",
+    "aliases": [
+      "Boise, ID",
+      "State Capital, ID",
+      "City of Trees, ID",
+      "Downtown, ID",
+      "North End, ID",
+      "East End, ID",
+      "West End, ID",
+      "Meridian, ID",
+      "Nampa, ID",
+      "Caldwell, ID",
+      "Eagle, ID",
+      "Star, ID",
+      "Kuna, ID"
+    ]
+  },
+  {
+    "cbsa": "14460",
+    "msa": "Boston-Cambridge-Newton, MA-NH (MSA)",
+    "aliases": [
+      "Cambridge, MA",
+      "Harvard, MA",
+      "MIT, MA",
+      "Kendall Square, MA",
+      "Central Square, MA",
+      "Harvard Square, MA",
+      "Porter Square, MA",
+      "Davis Square, MA",
+      "Somerville, MA",
+      "Medford, MA",
+      "Arlington, MA"
+    ]
+  },
+  {
+    "cbsa": "14500",
+    "msa": "Boulder, CO (MSA)",
+    "aliases": [
+      "Boulder, CO",
+      "CU Boulder, CO",
+      "University of Colorado, CO",
+      "Pearl Street, CO",
+      "The Hill, CO",
+      "Chautauqua, CO",
+      "Flagstaff, CO",
+      "Gunbarrel, CO",
+      "Louisville, CO",
+      "Lafayette, CO",
+      "Superior, CO",
+      "Erie, CO"
+    ]
+  },
+  {
+    "cbsa": "14540",
+    "msa": "Bowling Green, KY (MSA)",
+    "aliases": [
+      "Bowling Green, KY"
+    ]
+  },
+  {
+    "cbsa": "14740",
+    "msa": "Bremerton-Silverdale, WA (MSA)",
+    "aliases": [
+      "Bremerton, WA"
+    ]
+  },
+  {
+    "cbsa": "14860",
+    "msa": "Bridgeport-Stamford-Norwalk, CT (MSA)",
+    "aliases": [
+      "Bridgeport, CT"
+    ]
+  },
+  {
+    "cbsa": "15180",
+    "msa": "Brownsville-Harlingen, TX (MSA)",
+    "aliases": [
+      "Brownsville, TX"
+    ]
+  },
+  {
+    "cbsa": "15260",
+    "msa": "Brunswick, GA (MSA)",
+    "aliases": [
+      "Brunswick, GA"
+    ]
+  },
+  {
+    "cbsa": "15380",
+    "msa": "Buffalo-Cheektowaga-Niagara Falls, NY (MSA)",
+    "aliases": [
+      "Buffalo, NY"
+    ]
+  },
+  {
+    "cbsa": "15500",
+    "msa": "Burlington, NC (MSA)",
+    "aliases": [
+      "Burlington, NC"
+    ]
+  },
+  {
+    "cbsa": "15540",
+    "msa": "Burlington-South Burlington, VT (MSA)",
+    "aliases": [
+      "Burlington, VT",
+      "Queen City, VT",
+      "Downtown, VT",
+      "Church Street, VT",
+      "University, VT",
+      "New North End, VT",
+      "Old North End, VT",
+      "South End, VT",
+      "Winooski, VT",
+      "Essex Junction, VT",
+      "Colchester, VT",
+      "Williston, VT"
+    ]
+  },
+  {
+    "cbsa": "15940",
+    "msa": "Canton-Massillon, OH (MSA)",
+    "aliases": [
+      "Canton, OH"
+    ]
+  },
+  {
+    "cbsa": "15980",
+    "msa": "Cape Coral-Fort Myers, FL (MSA)",
+    "aliases": [
+      "Cape Coral, FL"
+    ]
+  },
+  {
+    "cbsa": "16020",
+    "msa": "Cape Girardeau, MO-IL (MSA)",
+    "aliases": [
+      "Cape Girardeau, MO"
+    ]
+  },
+  {
+    "cbsa": "16060",
+    "msa": "Carbondale-Marion, IL (MSA)",
+    "aliases": [
+      "Carbondale, IL"
+    ]
+  },
+  {
+    "cbsa": "16180",
+    "msa": "Carson City, NV (MSA)",
+    "aliases": [
+      "Carson City, NV",
+      "State Capital, NV",
+      "Downtown, NV",
+      "East Side, NV",
+      "West Side, NV",
+      "South Side, NV",
+      "North Side, NV",
+      "Reno, NV",
+      "Sparks, NV",
+      "Fernley, NV",
+      "Fallon, NV",
+      "Minden, NV",
+      "Gardnerville, NV"
+    ]
+  },
+  {
+    "cbsa": "16220",
+    "msa": "Casper, WY (MSA)",
+    "aliases": [
+      "Casper, WY"
+    ]
+  },
+  {
+    "cbsa": "16300",
+    "msa": "Cedar Rapids, IA (MSA)",
+    "aliases": [
+      "Cedar Rapids, IA",
+      "City of Five Seasons, IA",
+      "Downtown, IA",
+      "NewBo, IA",
+      "Czech Village, IA",
+      "Northwest, IA",
+      "Northeast, IA",
+      "Southwest, IA",
+      "Southeast, IA",
+      "Marion, IA",
+      "Hiawatha, IA",
+      "Robins, IA"
+    ]
+  },
+  {
+    "cbsa": "16540",
+    "msa": "Chambersburg-Waynesboro, PA (MSA)",
+    "aliases": [
+      "Chambersburg, PA"
+    ]
+  },
+  {
+    "cbsa": "16580",
+    "msa": "Champaign-Urbana, IL (MSA)",
+    "aliases": [
+      "Champaign, IL",
+      "UIUC, IL",
+      "University of Illinois, IL",
+      "Fighting Illini, IL",
+      "Urbana, IL",
+      "Campustown, IL",
+      "Downtown, IL",
+      "West Side, IL",
+      "North End, IL",
+      "Savoy, IL",
+      "Mahomet, IL"
+    ]
+  },
+  {
+    "cbsa": "16620",
+    "msa": "Charleston, WV (MSA)",
+    "aliases": [
+      "Charleston, WV"
+    ]
+  },
+  {
+    "cbsa": "16700",
+    "msa": "Charleston-North Charleston, SC (MSA)",
+    "aliases": [
+      "Charleston, SC",
+      "Holy City, SC",
+      "Downtown, SC",
+      "Historic District, SC",
+      "French Quarter, SC",
+      "South of Broad, SC",
+      "North of Broad, SC",
+      "West Ashley, SC",
+      "Mount Pleasant, SC",
+      "James Island, SC",
+      "Folly Beach, SC",
+      "Sullivan's Island, SC"
+    ]
+  },
+  {
+    "cbsa": "16740",
+    "msa": "Charlotte-Concord-Gastonia, NC-SC (MSA)",
+    "aliases": [
+      "Charlotte, NC",
+      "Queen City, NC",
+      "Uptown, NC",
+      "South End, NC",
+      "NoDa, NC",
+      "Plaza Midwood, NC",
+      "Ballantyne, NC",
+      "Huntersville, NC",
+      "Cornelius, NC",
+      "Davidson, NC",
+      "Mooresville, NC"
+    ]
+  },
+  {
+    "cbsa": "16820",
+    "msa": "Charlottesville, VA (MSA)",
+    "aliases": [
+      "Charlottesville, VA"
+    ]
+  },
+  {
+    "cbsa": "16860",
+    "msa": "Chattanooga, TN-GA (MSA)",
+    "aliases": [
+      "Chattanooga, TN",
+      "Scenic City, TN",
+      "Downtown, TN",
+      "North Shore, TN",
+      "Southside, TN",
+      "St Elmo, TN",
+      "Lookout Mountain, TN",
+      "Signal Mountain, TN",
+      "Red Bank, TN",
+      "East Ridge, TN",
+      "Collegedale, TN",
+      "Ooltewah, TN"
+    ]
+  },
+  {
+    "cbsa": "16940",
+    "msa": "Cheyenne, WY (MSA)",
+    "aliases": [
+      "Cheyenne, WY",
+      "State Capital, WY",
+      "Magic City, WY",
+      "Downtown, WY",
+      "South Side, WY",
+      "West Side, WY",
+      "East Side, WY",
+      "Pine Bluffs, WY",
+      "Burns, WY",
+      "Albin, WY",
+      "Hillsdale, WY",
+      "Egbert, WY"
+    ]
+  },
+  {
+    "cbsa": "16980",
+    "msa": "Chicago-Naperville-Elgin, IL-IN-WI (MSA)",
+    "aliases": [
+      "Chicago, IL",
+      "Chi-Town, IL",
+      "Windy City, IL",
+      "Second City, IL",
+      "The Loop, IL",
+      "Wrigleyville, IL",
+      "Lincoln Park, IL",
+      "Lakeview, IL",
+      "Evanston, IL",
+      "Oak Park, IL",
+      "Naperville, IL",
+      "Aurora, IL",
+      "Joliet, IL",
+      "Elgin, IL",
+      "Waukegan, IL",
+      "Arlington Heights, IL",
+      "Palatine, IL",
+      "Schaumburg, IL",
+      "Skokie, IL",
+      "Des Plaines, IL",
+      "Mount Prospect, IL",
+      "Wheeling, IL",
+      "Buffalo Grove, IL",
+      "Vernon Hills, IL",
+      "Libertyville, IL",
+      "Gurnee, IL",
+      "Highland Park, IL",
+      "Deerfield, IL",
+      "Northbrook, IL",
+      "Glenview, IL",
+      "Park Ridge, IL",
+      "Morton Grove, IL",
+      "Niles, IL",
+      "Elmhurst, IL",
+      "Downers Grove, IL",
+      "Lombard, IL",
+      "Glen Ellyn, IL",
+      "Wheaton, IL",
+      "Batavia, IL",
+      "Geneva, IL",
+      "St Charles, IL",
+      "Crystal Lake, IL",
+      "McHenry, IL",
+      "Round Lake, IL",
+      "Grayslake, IL",
+      "Mundelein, IL",
+      "Lake Forest, IL"
+    ]
+  },
+  {
+    "cbsa": "17020",
+    "msa": "Chico, CA (MSA)",
+    "aliases": [
+      "Chico, CA"
+    ]
+  },
+  {
+    "cbsa": "17140",
+    "msa": "Cincinnati, OH-KY-IN (MSA)",
+    "aliases": [
+      "Cincinnati, IN"
+    ]
+  },
+  {
+    "cbsa": "17300",
+    "msa": "Clarksville, TN-KY (MSA)",
+    "aliases": [
+      "Clarksville, TN"
+    ]
+  },
+  {
+    "cbsa": "17420",
+    "msa": "Cleveland, TN (MSA)",
+    "aliases": [
+      "Cleveland, TN"
+    ]
+  },
+  {
+    "cbsa": "17460",
+    "msa": "Cleveland-Elyria, OH (MSA)",
+    "aliases": [
+      "Cleveland, OH"
+    ]
+  },
+  {
+    "cbsa": "17660",
+    "msa": "Coeur d'Alene, ID (MSA)",
+    "aliases": [
+      "Coeur d'Alene, ID"
+    ]
+  },
+  {
+    "cbsa": "17780",
+    "msa": "College Station-Bryan, TX (MSA)",
+    "aliases": [
+      "College Station, TX",
+      "Texas A&M, TX",
+      "Aggieland, TX",
+      "Bryan, TX",
+      "Northgate, TX",
+      "Southgate, TX",
+      "Century Square, TX",
+      "The District, TX",
+      "Wellborn, TX",
+      "Navasota, TX",
+      "Caldwell, TX"
+    ]
+  },
+  {
+    "cbsa": "17820",
+    "msa": "Colorado Springs, CO (MSA)",
+    "aliases": [
+      "Colorado Springs, CO",
+      "Springs, CO",
+      "Olympic City, CO",
+      "Downtown, CO",
+      "Old Colorado City, CO",
+      "Manitou Springs, CO",
+      "Broadmoor, CO",
+      "Cheyenne Canon, CO",
+      "Academy, CO",
+      "Fountain, CO",
+      "Monument, CO",
+      "Palmer Lake, CO"
+    ]
+  },
+  {
+    "cbsa": "17860",
+    "msa": "Columbia, MO (MSA)",
+    "aliases": [
+      "Columbia, MO"
+    ]
+  },
+  {
+    "cbsa": "17900",
+    "msa": "Columbia, SC (MSA)",
+    "aliases": [
+      "Columbia, SC",
+      "Famously Hot, SC",
+      "Downtown, SC",
+      "Vista, SC",
+      "Five Points, SC",
+      "Shandon, SC",
+      "Forest Acres, SC",
+      "Cayce, SC",
+      "West Columbia, SC",
+      "Irmo, SC",
+      "Lexington, SC",
+      "Blythewood, SC"
+    ]
+  },
+  {
+    "cbsa": "17980",
+    "msa": "Columbus, GA-AL (MSA)",
+    "aliases": [
+      "Columbus, GA"
+    ]
+  },
+  {
+    "cbsa": "18020",
+    "msa": "Columbus, IN (MSA)",
+    "aliases": [
+      "Columbus, IN"
+    ]
+  },
+  {
+    "cbsa": "18140",
+    "msa": "Columbus, OH (MSA)",
+    "aliases": [
+      "Columbus, OH",
+      "State Capital, OH",
+      "The Arch City, OH",
+      "Short North, OH",
+      "German Village, OH",
+      "Clintonville, OH",
+      "Worthington, OH",
+      "Dublin, OH",
+      "Westerville, OH",
+      "Gahanna, OH",
+      "Reynoldsburg, OH",
+      "Pickerington, OH",
+      "New Albany, OH"
+    ]
+  },
+  {
+    "cbsa": "18580",
+    "msa": "Corpus Christi, TX (MSA)",
+    "aliases": [
+      "Corpus Christi, TX",
+      "Sparkling City by the Sea, TX",
+      "Downtown, TX",
+      "North Beach, TX",
+      "South Side, TX",
+      "West Side, TX",
+      "East Side, TX",
+      "Flour Bluff, TX",
+      "Port Aransas, TX",
+      "Rockport, TX",
+      "Aransas Pass, TX",
+      "Portland, TX"
+    ]
+  },
+  {
+    "cbsa": "18700",
+    "msa": "Corvallis, OR (MSA)",
+    "aliases": [
+      "Corvallis, OR",
+      "Oregon State, OR",
+      "OSU, OR",
+      "Beaver Nation, OR",
+      "Downtown, OR",
+      "South Town, OR",
+      "North Town, OR",
+      "Philomath, OR",
+      "Albany, OR",
+      "Lebanon, OR",
+      "Sweet Home, OR"
+    ]
+  },
+  {
+    "cbsa": "19060",
+    "msa": "Cumberland, MD-WV (MSA)",
+    "aliases": [
+      "Cumberland, MD",
+      "Queen City, MD",
+      "Downtown, MD",
+      "West Side, MD",
+      "East Side, MD",
+      "North End, MD",
+      "South End, MD",
+      "Frostburg, MD",
+      "LaVale, MD",
+      "Ridgeley, MD",
+      "Keyser, MD",
+      "Piedmont, MD"
+    ]
+  },
+  {
+    "cbsa": "19100",
+    "msa": "Dallas-Fort Worth-Arlington, TX (MSA)",
+    "aliases": [
+      "Dallas, TX",
+      "Big D, TX",
+      "Deep Ellum, TX",
+      "Uptown, TX",
+      "Oak Lawn, TX",
+      "Plano, TX",
+      "Irving, TX",
+      "Arlington, TX",
+      "Frisco, TX",
+      "McKinney, TX",
+      "Allen, TX"
+    ]
+  },
+  {
+    "cbsa": "19140",
+    "msa": "Dalton, GA (MSA)",
+    "aliases": [
+      "Dalton, GA",
+      "Carpet Capital, GA",
+      "Downtown, GA",
+      "North Dalton, GA",
+      "South Dalton, GA",
+      "East Dalton, GA",
+      "West Dalton, GA",
+      "Chatsworth, GA",
+      "Tunnel Hill, GA",
+      "Rocky Face, GA",
+      "Varnell, GA",
+      "Cohutta, GA"
+    ]
+  },
+  {
+    "cbsa": "19180",
+    "msa": "Danville, IL (MSA)",
+    "aliases": [
+      "Danville, IL",
+      "City of Progress, IL",
+      "Downtown, IL",
+      "North Side, IL",
+      "South Side, IL",
+      "East Side, IL",
+      "West Side, IL",
+      "Tilton, IL",
+      "Westville, IL",
+      "Georgetown, IL",
+      "Catlin, IL",
+      "Oakwood, IL"
+    ]
+  },
+  {
+    "cbsa": "19300",
+    "msa": "Daphne-Fairhope-Foley, AL (MSA)",
+    "aliases": [
+      "Daphne, AL",
+      "Jubilee City, AL",
+      "Fairhope, AL",
+      "Foley, AL",
+      "Gulf Shores, AL",
+      "Orange Beach, AL",
+      "Spanish Fort, AL",
+      "Loxley, AL",
+      "Robertsdale, AL"
+    ]
+  },
+  {
+    "cbsa": "19340",
+    "msa": "Davenport-Moline-Rock Island, IA-IL (MSA)",
+    "aliases": [
+      "Davenport, IA",
+      "Quad Cities, IA",
+      "Downtown, IA",
+      "West End, IA",
+      "East End, IA",
+      "North End, IA",
+      "South End, IA",
+      "Moline, IA",
+      "Rock Island, IA",
+      "Bettendorf, IA",
+      "East Moline, IA",
+      "Silvis, IA"
+    ]
+  },
+  {
+    "cbsa": "19380",
+    "msa": "Dayton, OH (MSA)",
+    "aliases": [
+      "Dayton, OH",
+      "Gem City, OH",
+      "Downtown, OH",
+      "Oregon District, OH",
+      "South Park, OH",
+      "St Anne's Hill, OH",
+      "Grafton Hill, OH",
+      "Wright Dunbar, OH",
+      "Kettering, OH",
+      "Beavercreek, OH",
+      "Centerville, OH",
+      "Springboro, OH"
+    ]
+  },
+  {
+    "cbsa": "19460",
+    "msa": "Decatur, AL (MSA)",
+    "aliases": [
+      "Decatur, AL",
+      "River City, AL",
+      "Downtown, AL",
+      "North Decatur, AL",
+      "South Decatur, AL",
+      "East Decatur, AL",
+      "West Decatur, AL",
+      "Athens, AL",
+      "Hartselle, AL",
+      "Madison, AL",
+      "Huntsville, AL",
+      "Florence, AL"
+    ]
+  },
+  {
+    "cbsa": "19500",
+    "msa": "Decatur, IL (MSA)",
+    "aliases": [
+      "Decatur, IL",
+      "Pride of the Prairie, IL",
+      "Downtown, IL",
+      "North Side, IL",
+      "South Side, IL",
+      "East Side, IL",
+      "West Side, IL",
+      "Mount Zion, IL",
+      "Forsyth, IL",
+      "Warrensburg, IL",
+      "Macon, IL",
+      "Argenta, IL"
+    ]
+  },
+  {
+    "cbsa": "19660",
+    "msa": "Deltona-Daytona Beach-Ormond Beach, FL (MSA)",
+    "aliases": [
+      "Deltona, FL",
+      "Daytona Beach, FL",
+      "Ormond Beach, FL",
+      "Port Orange, FL",
+      "New Smyrna Beach, FL",
+      "DeLand, FL",
+      "Orange City, FL",
+      "DeBary, FL",
+      "Lake Helen, FL",
+      "Ponce Inlet, FL",
+      "Edgewater, FL",
+      "Osteen, FL"
+    ]
+  },
+  {
+    "cbsa": "19740",
+    "msa": "Denver-Aurora-Lakewood, CO (MSA)",
+    "aliases": [
+      "Denver, CO",
+      "Aurora, CO",
+      "Lakewood, CO",
+      "Mile High City, CO",
+      "Downtown, CO",
+      "LoDo, CO",
+      "RiNo, CO",
+      "Highland, CO",
+      "Capitol Hill, CO",
+      "Cherry Creek, CO",
+      "Washington Park, CO",
+      "Platte Park, CO",
+      "Baker, CO",
+      "Five Points, CO",
+      "Park Hill, CO",
+      "Stapleton, CO",
+      "Green Valley Ranch, CO",
+      "Montbello, CO",
+      "Glendale, CO",
+      "Englewood, CO",
+      "Littleton, CO",
+      "Centennial, CO",
+      "Greenwood Village, CO",
+      "Cherry Hills Village, CO",
+      "Lone Tree, CO",
+      "Parker, CO",
+      "Castle Rock, CO",
+      "Highlands Ranch, CO",
+      "Arvada, CO",
+      "Westminster, CO",
+      "Broomfield, CO",
+      "Superior, CO",
+      "Louisville, CO",
+      "Lafayette, CO",
+      "Boulder, CO",
+      "Longmont, CO",
+      "Golden, CO",
+      "Wheat Ridge, CO",
+      "Northglenn, CO",
+      "Thornton, CO",
+      "Federal Heights, CO",
+      "Commerce City, CO",
+      "Brighton, CO",
+      "Henderson, CO",
+      "Fort Collins, CO",
+      "Loveland, CO",
+      "Greeley, CO",
+      "Colorado Springs, CO"
+    ]
+  },
+  {
+    "cbsa": "19780",
+    "msa": "Des Moines-West Des Moines, IA (MSA)",
+    "aliases": [
+      "Des Moines, IA",
+      "DSM, IA",
+      "Downtown, IA",
+      "East Village, IA",
+      "West Des Moines, IA",
+      "Urbandale, IA",
+      "Clive, IA",
+      "Johnston, IA",
+      "Altoona, IA",
+      "Pleasant Hill, IA",
+      "Ankeny, IA",
+      "Waukee, IA"
+    ]
+  },
+  {
+    "cbsa": "19820",
+    "msa": "Detroit-Warren-Dearborn, MI (MSA)",
+    "aliases": [
+      "Detroit, MI",
+      "Motor City, MI",
+      "Motown, MI",
+      "The D, MI",
+      "Downtown, MI",
+      "Midtown, MI",
+      "Corktown, MI",
+      "Royal Oak, MI",
+      "Birmingham, MI",
+      "Troy, MI",
+      "Ann Arbor, MI",
+      "Dearborn, MI"
+    ]
+  },
+  {
+    "cbsa": "20020",
+    "msa": "Dothan, AL (MSA)",
+    "aliases": [
+      "Dothan, AL",
+      "Peanut Capital, AL",
+      "Downtown, AL",
+      "North Dothan, AL",
+      "South Dothan, AL",
+      "East Dothan, AL",
+      "West Dothan, AL",
+      "Headland, AL",
+      "Ashford, AL",
+      "Cottonwood, AL",
+      "Rehobeth, AL",
+      "Midland City, AL"
+    ]
+  },
+  {
+    "cbsa": "20100",
+    "msa": "Dover, DE (MSA)",
+    "aliases": [
+      "Dover, DE",
+      "Capital City, DE",
+      "Downtown, DE",
+      "North Dover, DE",
+      "South Dover, DE",
+      "East Dover, DE",
+      "West Dover, DE",
+      "Camden, DE",
+      "Wyoming, DE",
+      "Felton, DE",
+      "Harrington, DE",
+      "Smyrna, DE"
+    ]
+  },
+  {
+    "cbsa": "20220",
+    "msa": "Dubuque, IA (MSA)",
+    "aliases": [
+      "Dubuque, IA",
+      "Key City, IA",
+      "Downtown, IA",
+      "North End, IA",
+      "South End, IA",
+      "East Side, IA",
+      "West Side, IA",
+      "Asbury, IA",
+      "Peosta, IA",
+      "Epworth, IA",
+      "Farley, IA",
+      "Dyersville, IA"
+    ]
+  },
+  {
+    "cbsa": "20260",
+    "msa": "Duluth, MN-WI (MSA)",
+    "aliases": [
+      "Duluth, MN",
+      "Zenith City, MN",
+      "Downtown, MN",
+      "Canal Park, MN",
+      "Lakeside, MN",
+      "East End, MN",
+      "West End, MN",
+      "North End, MN",
+      "South End, MN",
+      "Superior, MN",
+      "Hermantown, MN",
+      "Proctor, MN"
+    ]
+  },
+  {
+    "cbsa": "20500",
+    "msa": "Durham-Chapel Hill, NC (MSA)",
+    "aliases": [
+      "Durham, NC",
+      "Bull City, NC",
+      "Duke, NC",
+      "Duke University, NC",
+      "Chapel Hill, NC",
+      "UNC, NC",
+      "Carrboro, NC",
+      "Cary, NC",
+      "Morrisville, NC",
+      "Apex, NC",
+      "Holly Springs, NC",
+      "Wake Forest, NC"
+    ]
+  },
+  {
+    "cbsa": "20700",
+    "msa": "East Stroudsburg, PA (MSA)",
+    "aliases": [
+      "East Stroudsburg, PA",
+      "Pocono Mountains, PA",
+      "Stroudsburg, PA",
+      "Mount Pocono, PA",
+      "Tannersville, PA",
+      "Blakeslee, PA",
+      "Tobyhanna, PA",
+      "Pocono Pines, PA",
+      "Pocono Manor, PA",
+      "Swiftwater, PA",
+      "Analomink, PA",
+      "Cresco, PA"
+    ]
+  },
+  {
+    "cbsa": "20740",
+    "msa": "Eau Claire, WI (MSA)",
+    "aliases": [
+      "Eau Claire, WI",
+      "Clear Water, WI",
+      "Downtown, WI",
+      "North Side, WI",
+      "South Side, WI",
+      "East Side, WI",
+      "West Side, WI",
+      "Altoona, WI",
+      "Chippewa Falls, WI",
+      "Menomonie, WI",
+      "Rice Lake, WI",
+      "Barron, WI"
+    ]
+  },
+  {
+    "cbsa": "20940",
+    "msa": "El Centro, CA (MSA)",
+    "aliases": [
+      "El Centro, CA",
+      "Imperial Valley, CA",
+      "Calexico, CA",
+      "Brawley, CA",
+      "Imperial, CA",
+      "Calipatria, CA",
+      "Westmorland, CA",
+      "Niland, CA",
+      "Bombay Beach, CA",
+      "Salton City, CA",
+      "Ocotillo, CA",
+      "Seeley, CA"
+    ]
+  },
+  {
+    "cbsa": "21060",
+    "msa": "Elizabethtown-Fort Knox, KY (MSA)",
+    "aliases": [
+      "Elizabethtown, KY",
+      "E-town, KY",
+      "Fort Knox, KY",
+      "Radcliff, KY",
+      "Vine Grove, KY",
+      "Upton, KY",
+      "Sonora, KY",
+      "Buffalo, KY",
+      "Hodgenville, KY",
+      "Lebanon, KY",
+      "Springfield, KY",
+      "Bardstown, KY"
+    ]
+  },
+  {
+    "cbsa": "21140",
+    "msa": "Elkhart-Goshen, IN (MSA)",
+    "aliases": [
+      "Elkhart, IN",
+      "RV Capital, IN",
+      "Downtown, IN",
+      "North Side, IN",
+      "South Side, IN",
+      "East Side, IN",
+      "West Side, IN",
+      "Goshen, IN",
+      "Middlebury, IN",
+      "Bristol, IN",
+      "Nappanee, IN",
+      "Wakarusa, IN"
+    ]
+  },
+  {
+    "cbsa": "21300",
+    "msa": "Elmira, NY (MSA)",
+    "aliases": [
+      "Elmira, NY",
+      "Queen City, NY",
+      "Downtown, NY",
+      "North Side, NY",
+      "South Side, NY",
+      "East Side, NY",
+      "West Side, NY",
+      "Horseheads, NY",
+      "Big Flats, NY",
+      "Corning, NY",
+      "Watkins Glen, NY",
+      "Bath, NY"
+    ]
+  },
+  {
+    "cbsa": "21340",
+    "msa": "El Paso, TX (MSA)",
+    "aliases": [
+      "El Paso, TX",
+      "Sun City, TX",
+      "Downtown, TX",
+      "West Side, TX",
+      "East Side, TX",
+      "Northeast, TX",
+      "Northwest, TX",
+      "Southeast, TX",
+      "Southwest, TX",
+      "Juarez, TX",
+      "Las Cruces, TX",
+      "Anthony, TX"
+    ]
+  },
+  {
+    "cbsa": "21500",
+    "msa": "Erie, PA (MSA)",
+    "aliases": [
+      "Erie, PA",
+      "Gem City, PA",
+      "Downtown, PA",
+      "Bayfront, PA",
+      "West Side, PA",
+      "East Side, PA",
+      "North Side, PA",
+      "South Side, PA",
+      "Millcreek, PA",
+      "Fairview, PA",
+      "Girard, PA",
+      "Edinboro, PA"
+    ]
+  },
+  {
+    "cbsa": "23060",
+    "msa": "Fort Wayne, IN (MSA)",
+    "aliases": [
+      "Fort Wayne, IN"
+    ]
+  },
+  {
+    "cbsa": "23420",
+    "msa": "Fresno, CA (MSA)",
+    "aliases": [
+      "Fresno, CA",
+      "Raisin Capital, CA",
+      "Tower District, CA",
+      "Clovis, CA",
+      "Madera, CA",
+      "Sanger, CA",
+      "Reedley, CA",
+      "Kerman, CA",
+      "Selma, CA",
+      "Fowler, CA",
+      "Parlier, CA"
+    ]
+  },
+  {
+    "cbsa": "23460",
+    "msa": "Gadsden, AL (MSA)",
+    "aliases": [
+      "Gadsden, AL"
+    ]
+  },
+  {
+    "cbsa": "23540",
+    "msa": "Gainesville, FL (MSA)",
+    "aliases": [
+      "Gainesville, FL"
+    ]
+  },
+  {
+    "cbsa": "23580",
+    "msa": "Gainesville, GA (MSA)",
+    "aliases": [
+      "Gainesville, GA",
+      "UF, GA",
+      "University of Florida, GA",
+      "Gator Nation, GA",
+      "Downtown, GA",
+      "Midtown, GA",
+      "Butler Plaza, GA",
+      "Haile Plantation, GA",
+      "Newberry, GA",
+      "Alachua, GA",
+      "Micanopy, GA"
+    ]
+  },
+  {
+    "cbsa": "23900",
+    "msa": "Gettysburg, PA (MSA)",
+    "aliases": [
+      "Gettysburg, PA"
+    ]
+  },
+  {
+    "cbsa": "24020",
+    "msa": "Glens Falls, NY (MSA)",
+    "aliases": [
+      "Glens Falls, NY"
+    ]
+  },
+  {
+    "cbsa": "24140",
+    "msa": "Goldsboro, NC (MSA)",
+    "aliases": [
+      "Goldsboro, NC"
+    ]
+  },
+  {
+    "cbsa": "24220",
+    "msa": "Grand Forks, ND-MN (MSA)",
+    "aliases": [
+      "Grand Forks, ND"
+    ]
+  },
+  {
+    "cbsa": "24260",
+    "msa": "Grand Island, NE (MSA)",
+    "aliases": [
+      "Grand Island, NE"
+    ]
+  },
+  {
+    "cbsa": "24300",
+    "msa": "Grand Junction, CO (MSA)",
+    "aliases": [
+      "Grand Junction, CO"
+    ]
+  },
+  {
+    "cbsa": "24340",
+    "msa": "Grand Rapids-Wyoming, MI (MSA)",
+    "aliases": [
+      "Grand Rapids, MI"
+    ]
+  },
+  {
+    "cbsa": "24420",
+    "msa": "Grants Pass, OR (MSA)",
+    "aliases": [
+      "Grants Pass, OR"
+    ]
+  },
+  {
+    "cbsa": "24500",
+    "msa": "Great Falls, MT (MSA)",
+    "aliases": [
+      "Helena, MT",
+      "State Capital, MT",
+      "Queen City, MT",
+      "Downtown, MT",
+      "West Side, MT",
+      "East Helena, MT",
+      "Boulder, MT",
+      "Jefferson City, MT",
+      "Clancy, MT",
+      "Montana City, MT",
+      "Lincoln, MT"
+    ]
+  },
+  {
+    "cbsa": "24540",
+    "msa": "Greeley, CO (MSA)",
+    "aliases": [
+      "Greeley, CO"
+    ]
+  },
+  {
+    "cbsa": "24580",
+    "msa": "Green Bay, WI (MSA)",
+    "aliases": [
+      "Green Bay, WI"
+    ]
+  },
+  {
+    "cbsa": "24660",
+    "msa": "Greensboro-High Point, NC (MSA)",
+    "aliases": [
+      "Greensboro, NC"
+    ]
+  },
+  {
+    "cbsa": "26420",
+    "msa": "Houston-The Woodlands-Sugar Land, TX (MSA)",
+    "aliases": [
+      "Houston, TX",
+      "H-Town, TX",
+      "Space City, TX",
+      "Bayou City, TX",
+      "The Woodlands, TX",
+      "Sugar Land, TX",
+      "Pearland, TX",
+      "Katy, TX",
+      "Spring, TX",
+      "Cypress, TX"
+    ]
+  },
+  {
+    "cbsa": "28140",
+    "msa": "Kansas City, MO-KS (MSA)",
+    "aliases": [
+      "Kansas City, MO",
+      "KC, MO",
+      "KCMO, MO",
+      "The City of Fountains, MO",
+      "Country Club Plaza, MO",
+      "Westport, MO",
+      "Crossroads, MO",
+      "Overland Park, MO",
+      "Leawood, MO",
+      "Shawnee, MO",
+      "Lenexa, MO"
+    ]
+  },
+  {
+    "cbsa": "29820",
+    "msa": "Las Vegas-Henderson-Paradise, NV (MSA)",
+    "aliases": [
+      "Las Vegas, NV",
+      "Vegas, NV",
+      "Sin City, NV",
+      "The Strip, NV",
+      "Downtown, NV",
+      "Summerlin, NV",
+      "Henderson, NV",
+      "North Las Vegas, NV",
+      "Boulder City, NV",
+      "Mesquite, NV"
+    ]
+  },
+  {
+    "cbsa": "31100",
+    "msa": "Los Angeles-Long Beach-Anaheim, CA (MSA)",
+    "aliases": [
+      "Los Angeles, CA",
+      "LA, CA",
+      "Hollywood, CA",
+      "Venice, CA",
+      "Santa Monica, CA",
+      "Beverly Hills, CA",
+      "West Hollywood, CA",
+      "Culver City, CA",
+      "Inglewood, CA",
+      "Glendale, CA",
+      "Pasadena, CA",
+      "Costa Mesa, CA",
+      "Anaheim, CA",
+      "Long Beach, CA",
+      "Irvine, CA",
+      "Newport Beach, CA",
+      "Huntington Beach, CA",
+      "Garden Grove, CA",
+      "Fullerton, CA",
+      "Orange, CA",
+      "Tustin, CA",
+      "Westminster, CA",
+      "Fountain Valley, CA",
+      "Cypress, CA",
+      "Seal Beach, CA",
+      "Los Alamitos, CA",
+      "Stanton, CA",
+      "Buena Park, CA",
+      "La Habra, CA",
+      "Placentia, CA",
+      "Yorba Linda, CA",
+      "Brea, CA",
+      "La Palma, CA",
+      "Cerritos, CA",
+      "Artesia, CA",
+      "Lakewood, CA",
+      "Signal Hill, CA",
+      "Bellflower, CA",
+      "Downey, CA",
+      "Norwalk, CA",
+      "Santa Fe Springs, CA",
+      "Whittier, CA",
+      "La Mirada, CA",
+      "Pico Rivera, CA",
+      "Montebello, CA",
+      "Commerce, CA",
+      "Bell Gardens, CA",
+      "Cudahy, CA",
+      "South Gate, CA",
+      "Lynwood, CA",
+      "Compton, CA",
+      "Carson, CA",
+      "Torrance, CA",
+      "Redondo Beach, CA",
+      "Hermosa Beach, CA",
+      "Manhattan Beach, CA",
+      "El Segundo, CA",
+      "Hawthorne, CA",
+      "Lawndale, CA",
+      "Gardena, CA",
+      "Palos Verdes Estates, CA",
+      "Rancho Palos Verdes, CA",
+      "Rolling Hills Estates, CA",
+      "Rolling Hills, CA",
+      "San Pedro, CA",
+      "Wilmington, CA",
+      "Harbor City, CA",
+      "Lomita, CA"
+    ]
+  },
+  {
+    "cbsa": "33100",
+    "msa": "Miami-Fort Lauderdale-West Palm Beach, FL (MSA)",
+    "aliases": [
+      "Miami, FL",
+      "Magic City, FL",
+      "Miami Beach, FL",
+      "South Beach, FL",
+      "Coral Gables, FL",
+      "Coconut Grove, FL",
+      "Brickell, FL",
+      "Doral, FL",
+      "Aventura, FL",
+      "Hollywood FL, FL",
+      "Fort Lauderdale, FL"
+    ]
+  },
+  {
+    "cbsa": "33460",
+    "msa": "Minneapolis-St. Paul-Bloomington, MN-WI (MSA)",
+    "aliases": [
+      "Minneapolis, MN",
+      "Twin Cities, MN",
+      "Minneapolis-St Paul, MN",
+      "Uptown, MN",
+      "North Loop, MN",
+      "St Paul, MN",
+      "Bloomington, MN",
+      "Eden Prairie, MN",
+      "Edina, MN",
+      "Plymouth, MN",
+      "Maple Grove, MN"
+    ]
+  },
+  {
+    "cbsa": "34980",
+    "msa": "Nashville-Davidson--Murfreesboro--Franklin, TN (MSA)",
+    "aliases": [
+      "Nashville, TN",
+      "Music City, TN",
+      "Nash, TN",
+      "The Gulch, TN",
+      "East Nashville, TN",
+      "Germantown, TN",
+      "12 South, TN",
+      "Franklin, TN",
+      "Brentwood, TN",
+      "Murfreesboro, TN",
+      "Hendersonville, TN"
+    ]
+  },
+  {
+    "cbsa": "35620",
+    "msa": "New York-Newark-Jersey City, NY-NJ-PA (MSA)",
+    "aliases": [
+      "New York, NY",
+      "NYC, NY",
+      "Manhattan, NY",
+      "Brooklyn, NY",
+      "Queens, NY",
+      "Bronx, NY",
+      "Staten Island, NY",
+      "NY, NY",
+      "The City, NY",
+      "Big Apple, NY",
+      "Gotham, NY",
+      "Jersey City, NY",
+      "Newark, NY",
+      "Hoboken, NY",
+      "Union City, NY",
+      "West New York, NY",
+      "North Bergen, NY",
+      "Secaucus, NY",
+      "Kearny, NY",
+      "Harrison, NY",
+      "East Newark, NY",
+      "Guttenberg, NY",
+      "Weehawken, NY",
+      "Fairview, NY",
+      "Edgewater, NY",
+      "Fort Lee, NY",
+      "Palisades Park, NY",
+      "Ridgefield, NY",
+      "Cliffside Park, NY",
+      "Englewood Cliffs, NY",
+      "Alpine, NY",
+      "Tenafly, NY",
+      "Cresskill, NY",
+      "Demarest, NY",
+      "Haworth, NY",
+      "Bergenfield, NY",
+      "Dumont, NY",
+      "New Milford, NY",
+      "Teaneck, NY",
+      "Rochelle Park, NY",
+      "Paramus, NY",
+      "River Edge, NY",
+      "Oradell, NY",
+      "Emerson, NY",
+      "Westwood, NY",
+      "Hillsdale, NY",
+      "Woodcliff Lake, NY",
+      "Montvale, NY",
+      "Park Ridge, NY",
+      "Mahwah, NY",
+      "Ramsey, NY",
+      "Allendale, NY",
+      "Upper Saddle River, NY",
+      "Saddle River, NY",
+      "Waldwick, NY",
+      "Midland Park, NY",
+      "Glen Rock, NY",
+      "Ridgewood, NY",
+      "Wyckoff, NY",
+      "Franklin Lakes, NY",
+      "Oakland, NY",
+      "Pompton Lakes, NY",
+      "Wanaque, NY",
+      "Ringwood, NY",
+      "West Milford, NY",
+      "Vernon, NY",
+      "Sussex, NY",
+      "Warwick, NY",
+      "Tuxedo, NY",
+      "Monroe, NY",
+      "Chester, NY",
+      "Goshen, NY",
+      "Middletown, NY",
+      "Newburgh, NY",
+      "Poughkeepsie, NY",
+      "Beacon, NY",
+      "Fishkill, NY",
+      "Wappingers Falls, NY",
+      "New Windsor, NY",
+      "Cornwall, NY",
+      "Highland Falls, NY",
+      "West Point, NY",
+      "Highland, NY",
+      "Lloyd, NY",
+      "Plattekill, NY",
+      "Marlboro, NY",
+      "New Paltz, NY",
+      "Gardiner, NY",
+      "Shawangunk, NY",
+      "Rochester, NY",
+      "Wawarsing, NY",
+      "Ellenville, NY",
+      "Cuddebackville, NY",
+      "Port Jervis, NY",
+      "Deerpark, NY",
+      "Greenville, NY",
+      "Minisink, NY",
+      "Mount Hope, NY",
+      "Wallkill, NY",
+      "Crawford, NY",
+      "Blooming Grove, NY",
+      "Woodbury, NY",
+      "Highland Mills, NY",
+      "Central Valley, NY",
+      "Harriman, NY",
+      "Arden, NY",
+      "Turners, NY",
+      "Sloatsburg, NY",
+      "Tuxedo Park, NY",
+      "Southfields, NY",
+      "Sterling Forest, NY",
+      "Bellvale, NY",
+      "Greenwood Lake, NY",
+      "Vernon Valley, NY",
+      "McAfee, NY",
+      "Pochuck, NY",
+      "Glenwood, NY",
+      "Johnson, NY",
+      "Wantage, NY",
+      "Branchville, NY",
+      "Frankford, NY",
+      "Layton, NY",
+      "Sandyston, NY",
+      "Montague, NY",
+      "Deckertown, NY",
+      "Beemerville, NY",
+      "Colesville, NY",
+      "Unionville, NY",
+      "Florida, NY"
+    ]
+  },
+  {
+    "cbsa": "36420",
+    "msa": "Oklahoma City, OK (MSA)",
+    "aliases": [
+      "Oklahoma City, OK",
+      "OKC, OK",
+      "State Capital, OK",
+      "The 405, OK",
+      "Bricktown, OK",
+      "Midtown, OK",
+      "Paseo, OK",
+      "Edmond, OK",
+      "Norman, OK",
+      "Yukon, OK",
+      "Mustang, OK",
+      "Moore, OK",
+      "Bethany, OK",
+      "Warr Acres, OK"
+    ]
+  },
+  {
+    "cbsa": "36740",
+    "msa": "Orlando-Kissimmee-Sanford, FL (MSA)",
+    "aliases": [
+      "Orlando, FL",
+      "The City Beautiful, FL",
+      "Downtown, FL",
+      "Winter Park, FL",
+      "Maitland, FL",
+      "Oviedo, FL",
+      "Lake Mary, FL",
+      "Sanford, FL",
+      "Kissimmee, FL",
+      "Celebration, FL",
+      "Windermere, FL"
+    ]
+  },
+  {
+    "cbsa": "37980",
+    "msa": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",
+    "aliases": [
+      "Philadelphia, DE",
+      "Philly, DE",
+      "City of Brotherly Love, DE",
+      "Center City, DE",
+      "University City, DE",
+      "Manayunk, DE",
+      "Chestnut Hill, DE",
+      "Bryn Mawr, DE",
+      "Ardmore, DE",
+      "King of Prussia, DE"
+    ]
+  },
+  {
+    "cbsa": "38060",
+    "msa": "Phoenix-Mesa-Scottsdale, AZ (MSA)",
+    "aliases": [
+      "Phoenix, AZ",
+      "Valley of the Sun, AZ",
+      "Mesa, AZ",
+      "Scottsdale, AZ",
+      "Tempe, AZ",
+      "Gilbert, AZ",
+      "Chandler, AZ",
+      "Glendale, AZ",
+      "Peoria, AZ",
+      "Surprise, AZ"
+    ]
+  },
+  {
+    "cbsa": "38300",
+    "msa": "Pittsburgh, PA (MSA)",
+    "aliases": [
+      "Pittsburgh, PA"
+    ]
+  },
+  {
+    "cbsa": "39580",
+    "msa": "Raleigh, NC (MSA)",
+    "aliases": [
+      "Raleigh, NC",
+      "City of Oaks, NC",
+      "Downtown, NC",
+      "North Hills, NC",
+      "Cameron Village, NC",
+      "Cary, NC",
+      "Apex, NC",
+      "Holly Springs, NC",
+      "Wake Forest, NC",
+      "Knightdale, NC",
+      "Garner, NC"
+    ]
+  },
+  {
+    "cbsa": "40140",
+    "msa": "Riverside-San Bernardino-Ontario, CA (MSA)",
+    "aliases": [
+      "Riverside, CA"
+    ]
+  },
+  {
+    "cbsa": "41180",
+    "msa": "St. Louis, MO-IL (MSA)",
+    "aliases": [
+      "St. Louis, MO",
+      "STL, MO",
+      "Gateway City, MO",
+      "Downtown, MO",
+      "Central West End, MO",
+      "The Loop, MO",
+      "Soulard, MO",
+      "Lafayette Square, MO",
+      "Tower Grove, MO",
+      "Clayton, MO",
+      "Kirkwood, MO",
+      "Webster Groves, MO",
+      "University City, MO",
+      "Maplewood, MO"
+    ]
+  },
+  {
+    "cbsa": "41740",
+    "msa": "San Diego-Carlsbad, CA (MSA)",
+    "aliases": [
+      "San Diego, CA",
+      "SD, CA",
+      "America's Finest City, CA",
+      "La Jolla, CA",
+      "Del Mar, CA",
+      "Encinitas, CA",
+      "Carlsbad, CA",
+      "Oceanside, CA",
+      "Coronado, CA",
+      "Point Loma, CA",
+      "Pacific Beach, CA"
+    ]
+  },
+  {
+    "cbsa": "41860",
+    "msa": "San Francisco-Oakland-Hayward, CA (MSA)",
+    "aliases": [
+      "San Francisco, CA",
+      "SF, CA",
+      "San Fran, CA",
+      "Fog City, CA",
+      "The City, CA",
+      "Marina, CA",
+      "North Beach, CA",
+      "Mission, CA",
+      "Hayes Valley, CA",
+      "Pacific Heights, CA",
+      "Oakland, CA",
+      "Berkeley, CA",
+      "Emeryville, CA"
+    ]
+  },
+  {
+    "cbsa": "42200",
+    "msa": "Santa Maria-Santa Barbara, CA (MSA)",
+    "aliases": [
+      "Santa Barbara, CA",
+      "SB, CA",
+      "American Riviera, CA",
+      "Goleta, CA",
+      "Carpinteria, CA",
+      "Montecito, CA",
+      "Summerland, CA",
+      "Isla Vista, CA",
+      "Buellton, CA",
+      "Solvang, CA",
+      "Santa Maria, CA"
+    ]
+  },
+  {
+    "cbsa": "42220",
+    "msa": "Santa Rosa, CA (MSA)",
+    "aliases": [
+      "Santa Rosa, CA",
+      "Wine Country, CA",
+      "Petaluma, CA",
+      "Rohnert Park, CA",
+      "Cotati, CA",
+      "Sebastopol, CA",
+      "Windsor, CA",
+      "Healdsburg, CA",
+      "Cloverdale, CA",
+      "Guerneville, CA",
+      "Forestville, CA"
+    ]
+  },
+  {
+    "cbsa": "42660",
+    "msa": "Seattle-Tacoma-Bellevue, WA (MSA)",
+    "aliases": [
+      "Seattle, WA",
+      "Emerald City, WA",
+      "Rain City, WA",
+      "Sea-Tac, WA",
+      "Capitol Hill, WA",
+      "Fremont, WA",
+      "Ballard, WA",
+      "Queen Anne, WA",
+      "Bellevue, WA",
+      "Redmond, WA",
+      "Kirkland, WA",
+      "Tacoma, WA"
+    ]
+  },
+  {
+    "cbsa": "45300",
+    "msa": "Tampa-St. Petersburg-Clearwater, FL (MSA)",
+    "aliases": [
+      "Tampa, FL",
+      "Cigar City, FL",
+      "Ybor City, FL",
+      "South Tampa, FL",
+      "Hyde Park, FL",
+      "Westchase, FL",
+      "Carrollwood, FL",
+      "St Petersburg, FL",
+      "Clearwater, FL",
+      "Largo, FL",
+      "Dunedin, FL"
+    ]
+  },
+  {
+    "cbsa": "46060",
+    "msa": "Tucson, AZ (MSA)",
+    "aliases": [
+      "Tucson, AZ",
+      "Old Pueblo, AZ",
+      "Desert City, AZ",
+      "University, AZ",
+      "Fourth Avenue, AZ",
+      "Catalina Foothills, AZ",
+      "Oro Valley, AZ",
+      "Marana, AZ",
+      "Sahuarita, AZ",
+      "Vail, AZ",
+      "Green Valley, AZ"
+    ]
+  },
+  {
+    "cbsa": "46700",
+    "msa": "Vallejo-Fairfield, CA (MSA)",
+    "aliases": [
+      "Vallejo, CA",
+      "Fairfield, CA",
+      "Vacaville, CA",
+      "Dixon, CA",
+      "Davis, CA",
+      "Winters, CA",
+      "Woodland, CA",
+      "Napa, CA",
+      "American Canyon, CA",
+      "Benicia, CA",
+      "Martinez, CA"
+    ]
+  },
+  {
+    "cbsa": "47260",
+    "msa": "Virginia Beach-Norfolk-Newport News, VA-NC (MSA)",
+    "aliases": [
+      "Virginia Beach, VA",
+      "Norfolk, VA",
+      "Newport News, VA",
+      "Hampton Roads, VA",
+      "Chesapeake, VA",
+      "Portsmouth, VA",
+      "Suffolk, VA",
+      "Williamsburg, VA",
+      "Yorktown, VA",
+      "Poquoson, VA",
+      "Smithfield, VA",
+      "Isle of Wight, VA",
+      "Gloucester, VA"
+    ]
+  },
+  {
+    "cbsa": "47900",
+    "msa": "Washington-Arlington-Alexandria, DC-VA-MD-WV (MSA)",
+    "aliases": [
+      "Washington, WA",
+      "DC, WA",
+      "Washington DC, WA",
+      "The District, WA",
+      "Capitol Hill, WA",
+      "Georgetown, WA",
+      "Adams Morgan, WA",
+      "Dupont Circle, WA",
+      "Arlington, WA",
+      "Alexandria, WA",
+      "Bethesda, WA",
+      "Silver Spring, WA"
+    ]
+  },
+  {
+    "cbsa": "48620",
+    "msa": "Wichita, KS (MSA)",
+    "aliases": [
+      "Wichita, KS",
+      "Air Capital, KS",
+      "Downtown, KS",
+      "Old Town, KS",
+      "Delano, KS",
+      "Riverside, KS",
+      "College Hill, KS",
+      "East Side, KS",
+      "West Side, KS",
+      "North Side, KS",
+      "South Side, KS",
+      "Derby, KS",
+      "Haysville, KS",
+      "Goddard, KS",
+      "Maize, KS"
+    ]
+  },
+  {
+    "cbsa": "49340",
+    "msa": "Worcester, MA-CT (MSA)",
+    "aliases": [
+      "Worcester, MA",
+      "Wormtown, MA",
+      "Heart of the Commonwealth, MA",
+      "Downtown, MA",
+      "Shrewsbury Street, MA",
+      "West Side, MA",
+      "East Side, MA",
+      "North Side, MA",
+      "South Side, MA",
+      "Auburn, MA",
+      "Millbury, MA",
+      "Grafton, MA",
+      "Westborough, MA",
+      "Shrewsbury, MA"
+    ]
+  },
+  {
+    "cbsa": "40900",
+    "msa": "Sacramento-Roseville-Folsom, CA (MSA)",
+    "aliases": [
+      "Sacramento, CA",
+      "Roseville, CA",
+      "Folsom, CA",
+      "Davis, CA",
+      "Woodland, CA",
+      "Winters, CA",
+      "Elk Grove, CA",
+      "Citrus Heights, CA",
+      "Rancho Cordova, CA",
+      "Arden-Arcade, CA",
+      "Carmichael, CA",
+      "North Highlands, CA",
+      "Antelope, CA",
+      "Orangevale, CA",
+      "Fair Oaks, CA",
+      "Gold River, CA",
+      "Folsom Lake, CA",
+      "Granite Bay, CA",
+      "Loomis, CA",
+      "Rocklin, CA",
+      "Lincoln, CA",
+      "Auburn, CA",
+      "Placerville, CA",
+      "El Dorado Hills, CA",
+      "Cameron Park, CA",
+      "Shingle Springs, CA",
+      "West Sacramento, CA",
+      "Yolo County, CA",
+      "Yolo, CA",
+      "Yuba City, CA",
+      "Marysville, CA",
+      "Wheatland, CA",
+      "Beale AFB, CA"
+    ]
+  },
+  {
+    "cbsa": "38900",
+    "msa": "Portland-Vancouver-Hillsboro, OR-WA (MSA)",
+    "aliases": [
+      "Portland, OR",
+      "Vancouver, OR",
+      "Hillsboro, OR",
+      "Beaverton, OR",
+      "Gresham, OR",
+      "Lake Oswego, OR",
+      "Tigard, OR",
+      "Tualatin, OR",
+      "West Linn, OR",
+      "Wilsonville, OR",
+      "Canby, OR",
+      "Oregon City, OR",
+      "Milwaukie, OR",
+      "Happy Valley, OR",
+      "Clackamas, OR",
+      "Damascus, OR",
+      "Boring, OR",
+      "Sandy, OR",
+      "Estacada, OR",
+      "Molalla, OR",
+      "Forest Grove, OR",
+      "Cornelius, OR",
+      "North Plains, OR",
+      "Sherwood, OR",
+      "Newberg, OR",
+      "McMinnville, OR",
+      "Yamhill, OR",
+      "Dayton, OR",
+      "Dundee, OR",
+      "Camas, OR",
+      "Washougal, OR",
+      "Battle Ground, OR",
+      "Ridgefield, OR",
+      "La Center, OR",
+      "Woodland, OR",
+      "Kalama, OR",
+      "Longview, OR",
+      "Kelso, OR",
+      "Castle Rock, OR",
+      "St. Helens, OR",
+      "Scappoose, OR",
+      "Columbia City, OR",
+      "St. Johns, OR",
+      "Pearl District, OR",
+      "Alberta Arts, OR",
+      "Hawthorne, OR",
+      "Sellwood, OR",
+      "Multnomah Village, OR",
+      "Nob Hill, OR",
+      "Lloyd District, OR",
+      "Pearl, OR",
+      "Downtown, OR",
+      "Eastside, OR",
+      "Westside, OR",
+      "North Portland, OR",
+      "South Portland, OR",
+      "Northeast, OR",
+      "Southeast, OR",
+      "Northwest, OR",
+      "Southwest, OR"
+    ]
+  },
+  {
+    "cbsa": "37100",
+    "msa": "Oxnard-Thousand Oaks-Ventura, CA (MSA)",
+    "aliases": [
+      "Oxnard, CA",
+      "Thousand Oaks, CA",
+      "Ventura, CA",
+      "Camarillo, CA",
+      "Moorpark, CA",
+      "Simi Valley, CA",
+      "Port Hueneme, CA",
+      "Fillmore, CA",
+      "Santa Paula, CA",
+      "Ojai, CA",
+      "Newbury Park, CA",
+      "Westlake Village, CA",
+      "Agoura Hills, CA",
+      "Calabasas, CA",
+      "Hidden Hills, CA",
+      "Malibu, CA",
+      "Topanga, CA",
+      "Westlake, CA",
+      "Oak Park, CA",
+      "Somis, CA",
+      "Piru, CA",
+      "Santa Rosa Valley, CA",
+      "Bell Canyon, CA",
+      "Lake Sherwood, CA",
+      "Ventura County, CA",
+      "Ventura Harbor, CA",
+      "Channel Islands, CA",
+      "Point Mugu, CA",
+      "Port Hueneme Naval Base, CA",
+      "Naval Base Ventura County, CA",
+      "Downtown Ventura, CA",
+      "Midtown Ventura, CA",
+      "East Ventura, CA",
+      "West Ventura, CA",
+      "Ventura Keys, CA",
+      "Pierpont Bay, CA",
+      "Montalvo, CA",
+      "Saticoy, CA",
+      "El Rio, CA",
+      "Oxnard Shores, CA",
+      "Silver Strand, CA",
+      "Hollywood Beach, CA",
+      "Mandalay Beach, CA",
+      "Channel Islands Harbor, CA",
+      "The Collection, CA",
+      "RiverPark, CA",
+      "Wagon Wheel, CA",
+      "South Oxnard, CA",
+      "North Oxnard, CA",
+      "East Oxnard, CA",
+      "West Oxnard, CA",
+      "Downtown Oxnard, CA",
+      "Heritage Square, CA",
+      "Colonia, CA",
+      "La Colonia, CA",
+      "Rose Park, CA",
+      "Palm District, CA",
+      "Thousand Oaks Blvd, CA",
+      "Westlake Blvd, CA",
+      "Moorpark Rd, CA",
+      "Ventura Blvd, CA",
+      "101 Freeway, CA",
+      "Pacific Coast Highway, CA",
+      "PCH, CA"
+    ]
+  },
+  {
+    "cbsa": "41940",
+    "msa": "San Jose-Sunnyvale-Santa Clara, CA (MSA)",
+    "aliases": [
+      "San Jose, CA",
+      "SJ, CA",
+      "Silicon Valley, CA",
+      "The Capital of Silicon Valley, CA",
+      "Sunnyvale, CA",
+      "Santa Clara, CA",
+      "Cupertino, CA",
+      "Mountain View, CA",
+      "Palo Alto, CA",
+      "Redwood City, CA",
+      "Menlo Park, CA",
+      "Atherton, CA",
+      "Los Altos, CA",
+      "Los Altos Hills, CA",
+      "Saratoga, CA",
+      "Campbell, CA",
+      "Los Gatos, CA",
+      "Monte Sereno, CA",
+      "Morgan Hill, CA",
+      "Gilroy, CA",
+      "Milpitas, CA",
+      "Fremont, CA",
+      "Newark, CA",
+      "Union City, CA",
+      "Hayward, CA",
+      "San Leandro, CA",
+      "Castro Valley, CA",
+      "Pleasanton, CA",
+      "Dublin, CA",
+      "Livermore, CA",
+      "Tracy, CA",
+      "Manteca, CA",
+      "Lathrop, CA",
+      "Stockton, CA",
+      "Lodi, CA",
+      "Turlock, CA",
+      "Modesto, CA",
+      "Patterson, CA",
+      "Los Banos, CA",
+      "Hollister, CA",
+      "Watsonville, CA",
+      "Scotts Valley, CA",
+      "Capitola, CA",
+      "Santa Cruz, CA",
+      "Aptos, CA",
+      "Soquel, CA",
+      "Felton, CA",
+      "Boulder Creek, CA",
+      "Ben Lomond, CA",
+      "Brookdale, CA",
+      "Davenport, CA",
+      "Half Moon Bay, CA",
+      "Pacifica, CA",
+      "Daly City, CA",
+      "South San Francisco, CA",
+      "San Bruno, CA",
+      "Millbrae, CA",
+      "Burlingame, CA",
+      "San Mateo, CA",
+      "Foster City, CA",
+      "Belmont, CA",
+      "San Carlos, CA",
+      "Redwood Shores, CA",
+      "East Palo Alto, CA",
+      "Stanford, CA",
+      "Portola Valley, CA",
+      "Woodside, CA",
+      "Hillsborough, CA",
+      "San Francisco, CA",
+      "Oakland, CA",
+      "Berkeley, CA",
+      "Alameda, CA",
+      "Emeryville, CA",
+      "Albany, CA",
+      "El Cerrito, CA",
+      "Richmond, CA",
+      "San Pablo, CA",
+      "Hercules, CA",
+      "Pinole, CA",
+      "El Sobrante, CA",
+      "San Ramon, CA",
+      "Danville, CA",
+      "Alamo, CA",
+      "Walnut Creek, CA",
+      "Concord, CA",
+      "Martinez, CA",
+      "Antioch, CA",
+      "Brentwood, CA",
+      "Oakley, CA",
+      "Discovery Bay, CA",
+      "Byron, CA",
+      "Pittsburg, CA",
+      "Bay Point, CA",
+      "Lafayette, CA",
+      "Moraga, CA",
+      "Orinda, CA",
+      "Clayton, CA"
+    ]
+  }
+]

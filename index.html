@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COL Converter - Cost of Living Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="nav-links">
+                <a href="index.html" class="active">COL Converter</a>
+                <a href="progression.html">Salary Progression</a>
+            </div>
+            
+            <header>
+                <h1>COL Converter</h1>
+                <p>Convert income between U.S. cities</p>
+            </header>
+
+            <form id="converter-form">
+                <div class="input-grid">
+                    <div class="input-group">
+                        <label for="from-city">From City</label>
+                        <input 
+                            type="text" 
+                            id="from-city" 
+                            name="from-city" 
+                            list="cities-list"
+                            placeholder="e.g., Los Angeles, NYC"
+                            required
+                        >
+                        <div class="error-message" id="from-error"></div>
+                    </div>
+
+                                   <div class="input-group">
+                   <label for="salary">Income ($)</label>
+                   <input 
+                       type="text" 
+                       id="salary" 
+                       name="salary" 
+                       value="100000"
+                       placeholder="100000"
+                       required
+                   >
+                   <div class="error-message" id="salary-error"></div>
+               </div>
+
+                    <div class="input-group">
+                        <label for="to-city">To City</label>
+                        <input 
+                            type="text" 
+                            id="to-city" 
+                            name="to-city" 
+                            list="cities-list"
+                            placeholder=""
+                            required
+                        >
+                        <div class="error-message" id="to-error"></div>
+                    </div>
+                </div>
+
+                <div class="button-container">
+                    <button type="submit" id="convert-btn">Convert</button>
+                    <button type="button" id="switch-btn" class="switch-btn">
+                        Swap Cities
+                    </button>
+                </div>
+            </form>
+
+            <datalist id="cities-list"></datalist>
+
+            <div id="result" class="result hidden">
+                <div class="result-main">
+                    <div class="equivalent-salary" id="equivalent-salary"></div>
+                    <div class="delta-pill" id="delta-pill"></div>
+                </div>
+                
+                <div class="result-meta" id="result-meta"></div>
+
+                <div class="share-section">
+                    <button id="copy-link-btn" class="share-btn">Copy Link</button>
+                </div>
+            </div>
+
+            <div id="loading" class="loading hidden">
+                <div class="spinner"></div>
+                <p>Fetching cost of living data...</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

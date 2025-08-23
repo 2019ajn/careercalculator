@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Progression Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .progression-table {
+            width: 100%;
+            margin-top: 24px;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+        
+        .progression-table th,
+        .progression-table td {
+            padding: 12px 8px;
+            text-align: right;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .progression-table th {
+            background: rgba(255, 255, 255, 0.05);
+            font-weight: 600;
+            color: #e0e0e0;
+        }
+        
+        .progression-table td {
+            color: #b0b0b0;
+        }
+        
+        .progression-table tr:hover {
+            background: rgba(255, 255, 255, 0.02);
+        }
+        
+        .year-column {
+            text-align: center;
+            font-weight: 600;
+            color: #e0e0e0;
+        }
+        
+        .salary-column {
+            font-weight: 600;
+            color: #ffffff;
+        }
+        
+        .total-comp-column {
+            color: #4CAF50;
+        }
+        
+        .nav-links {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+        
+        .nav-links a {
+            color: #6c757d;
+            text-decoration: none;
+            margin: 0 12px;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: all 0.2s ease;
+        }
+        
+        .nav-links a:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: #e0e0e0;
+        }
+        
+        .nav-links a.active {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-top: 24px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 4px;
+        }
+        
+        .stat-label {
+            font-size: 0.8rem;
+            color: #b0b0b0;
+        }
+        
+        /* Promotion Schedule */
+        .promotion-schedule {
+            display: flex;
+            gap: 2px;
+            margin-top: 8px;
+            overflow-x: auto;
+        }
+        
+        .year-box {
+            width: 50px;
+            height: 40px;
+            border: 1px solid #404040;
+            background: #1a1a1a;
+            color: #e0e0e0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+            flex: 1;
+        }
+        
+        .year-box:hover {
+            background: #2a2a2a;
+            border-color: #6c757d;
+        }
+        
+        .year-box.selected {
+            background: #6c757d;
+            border-color: #6c757d;
+            color: white;
+        }
+        
+
+        
+        /* Override input grid for 2x2 layout */
+        .input-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        
+        /* Make promotion schedule span full width */
+        .input-group:has(.promotion-schedule) {
+            grid-column: 1 / -1;
+        }
+        
+        /* Make promotion increase span full width and center */
+        .input-group:has(#promotion-increase) {
+            grid-column: 1 / -1;
+        }
+        
+        /* Make promotion increase input match button width */
+        #promotion-increase {
+            max-width: 200px;
+            margin: 0 auto;
+        }
+        
+        @media (max-width: 767px) {
+            .input-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="nav-links">
+                <a href="index.html">COL Converter</a>
+                <a href="progression.html" class="active">Salary Progression</a>
+            </div>
+            
+            <header>
+                <h1>Salary Progression</h1>
+                <p>Project your yearly salary growth</p>
+            </header>
+
+            <form id="progression-form">
+                <div class="input-grid">
+                    <div class="input-group">
+                        <label for="starting-salary">Starting Salary ($)</label>
+                        <input 
+                            type="text" 
+                            id="starting-salary" 
+                            name="starting-salary" 
+                            required
+                        >
+                        <div class="error-message" id="salary-error"></div>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="col-compensation">Yearly COL Compensation (%)</label>
+                        <input 
+                            type="text" 
+                            id="col-compensation" 
+                            name="col-compensation" 
+                        >
+                        <div class="error-message" id="col-error"></div>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="promotion-schedule">Promotion Schedule (click years after starting year)</label>
+                        <div class="promotion-schedule" id="promotion-schedule">
+                            <!-- Year boxes will be generated by JavaScript -->
+                        </div>
+                        <div class="error-message" id="schedule-error"></div>
+                    </div>
+
+                    <div class="input-group" style="text-align: center;">
+                        <label for="promotion-increase">Promotion Increase (%)</label>
+                        <input 
+                            type="text" 
+                            id="promotion-increase" 
+                            name="promotion-increase" 
+                            required
+                            style="text-align: center;"
+                        >
+                        <div class="error-message" id="increase-error"></div>
+                    </div>
+                </div>
+
+                <div class="button-container" style="justify-content: center;">
+                    <button type="submit" id="calculate-btn">Calculate Progression</button>
+                </div>
+            </form>
+
+            <div id="result" class="result hidden">
+                <div class="summary-stats">
+                    <div class="stat-item">
+                        <div class="stat-value" id="final-salary">$0</div>
+                        <div class="stat-label">Final Salary</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="total-earned">$0</div>
+                        <div class="stat-label">Total Earned (30 years)</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="total-increase">0%</div>
+                        <div class="stat-label">Total Increase</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="avg-annual-growth">0%</div>
+                        <div class="stat-label">Avg Annual Growth</div>
+                    </div>
+                </div>
+                
+                <table class="progression-table" id="progression-table">
+                    <thead>
+                        <tr>
+                            <th class="year-column">Year</th>
+                            <th>Promotion #</th>
+                            <th>Starting Salary</th>
+                            <th>COL Compensation</th>
+                            <th>Promotion Raise</th>
+                            <th>Final Salary</th>
+                            <th>Increase</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="progression.js"></script>
+</body>
+</html>
