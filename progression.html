@@ -161,6 +161,12 @@
             margin: 0 auto;
         }
         
+        /* Force exact same top positioning */
+        .container {
+            padding-top: 50px !important;
+            align-items: flex-start !important;
+        }
+        
         @media (max-width: 767px) {
             .input-grid {
                 grid-template-columns: 1fr;

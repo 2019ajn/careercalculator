@@ -5,6 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>COL Converter - Cost of Living Calculator</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Override input grid to match progression page */
+        .input-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        
+        /* Force exact same top positioning */
+        .container {
+            padding-top: 50px !important;
+            align-items: flex-start !important;
+        }
+        
+        @media (max-width: 767px) {
+            .input-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -28,7 +49,6 @@
                             id="from-city" 
                             name="from-city" 
                             list="cities-list"
-                            placeholder="e.g., Los Angeles, NYC"
                             required
                         >
                         <div class="error-message" id="from-error"></div>
@@ -40,8 +60,6 @@
                        type="text" 
                        id="salary" 
                        name="salary" 
-                       value="100000"
-                       placeholder="100000"
                        required
                    >
                    <div class="error-message" id="salary-error"></div>

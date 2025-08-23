@@ -309,6 +309,18 @@ button:disabled {
     color: white;
 }
 
+/* Ensure consistent container behavior across pages */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 50px;
+}
+
 /* Responsive adjustments */
 @media (max-width: 480px) {
     .container {
