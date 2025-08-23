@@ -171,6 +171,30 @@
             .input-grid {
                 grid-template-columns: 1fr;
             }
+            
+            .promotion-schedule {
+                gap: 1px;
+            }
+            
+            .year-box {
+                width: 35px;
+                height: 32px;
+                font-size: 0.8rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .promotion-schedule {
+                gap: 1px;
+                overflow-x: auto;
+            }
+            
+            .year-box {
+                width: 32px;
+                height: 30px;
+                font-size: 0.75rem;
+                flex-shrink: 0;
+            }
         }
     </style>
 </head>

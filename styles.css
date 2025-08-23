@@ -322,24 +322,141 @@ button:disabled {
 }
 
 /* Responsive adjustments */
-@media (max-width: 480px) {
+@media (max-width: 768px) {
     .container {
         padding: 16px;
+        padding-top: 30px;
     }
     
     .card {
-        padding: 24px;
+        padding: 20px;
     }
     
     header h1 {
         font-size: 2rem;
+        margin-bottom: 6px;
     }
     
-    .equivalent-salary {
-        font-size: 2.5rem;
+    header p {
+        font-size: 1rem;
+    }
+    
+    .nav-links {
+        margin-bottom: 20px;
+    }
+    
+    .nav-links a {
+        margin: 0 6px;
+        padding: 6px 12px;
+        font-size: 0.9rem;
     }
     
     .input-grid {
         gap: 16px;
+    }
+    
+    .input-group label {
+        font-size: 0.85rem;
+    }
+    
+    .input-group input {
+        padding: 10px 14px;
+        font-size: 0.95rem;
+    }
+    
+    button {
+        padding: 10px 20px;
+        font-size: 0.95rem;
+        min-height: 44px;
+    }
+    
+    .button-container {
+        gap: 10px;
+    }
+    
+    .equivalent-salary {
+        font-size: 2.2rem;
+    }
+    
+    .delta-pill {
+        font-size: 0.8rem;
+        padding: 6px 12px;
+    }
+    
+    .result-meta {
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 12px;
+        padding-top: 20px;
+    }
+    
+    .card {
+        padding: 16px;
+    }
+    
+    header h1 {
+        font-size: 1.8rem;
+    }
+    
+    header p {
+        font-size: 0.9rem;
+    }
+    
+    .nav-links a {
+        margin: 0 4px;
+        padding: 5px 10px;
+        font-size: 0.85rem;
+    }
+    
+    .input-grid {
+        gap: 12px;
+    }
+    
+    .input-group input {
+        padding: 8px 12px;
+        font-size: 0.9rem;
+    }
+    
+    button {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+        min-height: 40px;
+    }
+    
+    .equivalent-salary {
+        font-size: 1.8rem;
+    }
+    
+    .summary-stats {
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        padding: 16px;
+    }
+    
+    .stat-value {
+        font-size: 1.2rem;
+    }
+    
+    .stat-label {
+        font-size: 0.7rem;
+    }
+    
+    .progression-table {
+        font-size: 0.75rem;
+    }
+    
+    .progression-table th,
+    .progression-table td {
+        padding: 8px 4px;
+    }
+    
+    .year-box {
+        width: 40px;
+        height: 35px;
+        font-size: 0.8rem;
     }
 }
