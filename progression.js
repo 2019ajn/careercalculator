@@ -105,12 +105,12 @@ class SalaryProgressionCalculator {
         return `${value.toFixed(1)}%`;
     }
 
-    calculateProgression(data) {
+        calculateProgression(data) {
         const progression = [];
         let currentSalary = data.startingSalary;
         let totalEarned = 0;
         let previousSalary = currentSalary;
-        let promotionNumber = 0;
+        let level = 1; // Start at level 1
 
         for (let year = 0; year <= 20; year++) {
             const startingSalary = currentSalary;
@@ -122,27 +122,19 @@ class SalaryProgressionCalculator {
             const promotionIncrease = year > 0 && this.selectedYears.has(year) ? startingSalary * (data.promotionIncrease / 100) : 0;
             
             if (year > 0 && this.selectedYears.has(year)) {
-                promotionNumber++;
+                level++;
             }
             
             const finalSalary = startingSalary + colIncrease + promotionIncrease;
             currentSalary = finalSalary; // Update for next year
-            
-            // Calculate total increase (COL + promotion)
-            let increase = 0;
-            if (year > 0) {
-                const previousSalary = year === 1 ? data.startingSalary : progression[progression.length - 1].finalSalary;
-                increase = ((finalSalary - previousSalary) / previousSalary) * 100;
-            }
 
             progression.push({
                 year,
-                promotionNumber: year > 0 && this.selectedYears.has(year) ? promotionNumber : 0,
+                level: level,
                 startingSalary,
                 finalSalary,
                 colCompensation: colIncrease,
-                promotionRaise: promotionIncrease,
-                increase
+                promotionRaise: promotionIncrease
             });
 
             totalEarned += finalSalary;
@@ -172,12 +164,11 @@ class SalaryProgressionCalculator {
             const tr = document.createElement('tr');
             tr.innerHTML = `
                 <td class="year-column">${row.year}</td>
-                <td class="year-column">${row.promotionNumber > 0 ? row.promotionNumber : '-'}</td>
+                <td class="year-column">${row.level}</td>
                 <td class="salary-column">${this.formatCurrency(row.startingSalary)}</td>
                 <td>${this.formatCurrency(row.colCompensation)}</td>
                 <td>${row.promotionRaise > 0 ? this.formatCurrency(row.promotionRaise) : '-'}</td>
                 <td class="salary-column">${this.formatCurrency(row.finalSalary)}</td>
-                <td>${row.increase > 0 ? '+' : ''}${this.formatPercentage(row.increase)}</td>
             `;
             this.tableBody.appendChild(tr);
         });
